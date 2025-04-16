@@ -3,7 +3,7 @@ Biro Anya-Andreea 332CA
 # OpenBook
 
 ## Diagrama bloc
-![Diagrama bloc](./Images/block-diagram.jpg)
+![Diagrama bloc](./Images/Diagrama_bloc.png)
 
 ## BOM
 | Componenta              | Descriere                             | Sursa | Datasheet |
