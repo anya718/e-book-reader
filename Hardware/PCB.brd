@@ -95,7 +95,7 @@
 <libraries>
 <library name="tsc-good-lib" urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA">
 <packages>
-<package name="MYBUTTON" library_version="46">
+<package name="MYBUTTON" library_version="19">
 <description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 4.6 x 2.8mm&lt;/h3&gt;
 &lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.ck-components.com/media/1479/kmr2.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
@@ -113,7 +113,7 @@
 <wire x1="0.9" y1="-2.1" x2="0.9" y2="-1.45" width="0.127" layer="21"/>
 <wire x1="-0.9" y1="-2.1" x2="0.9" y2="-2.1" width="0.127" layer="21"/>
 </package>
-<package name="ESP32_WROVER_EAGLE-LTSPICE_C0402" library_version="20">
+<package name="ESP32_WROVER_EAGLE-LTSPICE_C0402" library_version="6">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -129,7 +129,7 @@
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="CAPCP3225X100N" library_version="63">
+<package name="CAPCP3225X100N" library_version="20">
 <wire x1="1.6" y1="-1.25" x2="-1.6" y2="-1.25" width="0.127" layer="51"/>
 <wire x1="-1.6" y1="-1.25" x2="-1.6" y2="1.25" width="0.127" layer="51"/>
 <wire x1="-1.6" y1="1.25" x2="1.6" y2="1.25" width="0.127" layer="51"/>
@@ -150,7 +150,7 @@
 <smd name="2" x="1.1" y="0" dx="1.4" dy="1.4" layer="1"/>
 <smd name="1" x="-1.1" y="0" dx="1.4" dy="1.4" layer="1"/>
 </package>
-<package name="RCL_CT3528" library_version="31">
+<package name="RCL_CT3528" library_version="9">
 <description>&lt;b&gt;TANTALUM CAPACITOR&lt;/b&gt;</description>
 <wire x1="-2.973" y1="1.983" x2="2.973" y2="1.983" width="0.0508" layer="39"/>
 <wire x1="2.973" y1="-1.983" x2="-2.973" y2="-1.983" width="0.0508" layer="39"/>
@@ -170,7 +170,7 @@
 <text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ADAFRUIT_CHIP-LED0603" library_version="30">
+<package name="ADAFRUIT_CHIP-LED0603" library_version="8">
 <description>&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;
 LB Q993&lt;br&gt;
 Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
@@ -186,7 +186,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-0.635" y="-0.635" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="1.905" y="-0.635" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="SOT95P280X145-6N" library_version="9">
+<package name="SOT95P280X145-6N" library_version="7">
 <description>&lt;b&gt;SOT23-6(ESDA6V1-5SC6Y)&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -212,7 +212,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="5" x="1.25" y="0" dx="1.2" dy="0.6" layer="1"/>
 <smd name="6" x="1.25" y="0.95" dx="1.2" dy="0.6" layer="1"/>
 </package>
-<package name="DIOC1608X36N" library_version="44">
+<package name="DIOC1608X36N" library_version="28">
 <wire x1="-0.83" y1="-0.42" x2="-0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="-0.83" y1="0.42" x2="0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="0.83" y1="0.42" x2="0.83" y2="-0.42" width="0.127" layer="51"/>
@@ -226,7 +226,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="1" x="-0.75" y="0" dx="0.97" dy="0.94" layer="1"/>
 <smd name="2" x="0.75" y="0" dx="0.97" dy="0.94" layer="1"/>
 </package>
-<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="62">
+<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="23">
 <description>Schottky Barrier Rectifier Diode</description>
 <wire x1="-1" y1="-0.65" x2="-1" y2="0.65" width="0.15" layer="51"/>
 <wire x1="-1" y1="0.65" x2="1" y2="0.65" width="0.15" layer="51"/>
@@ -243,7 +243,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="2" x="1.05" y="0" dx="0.8" dy="0.9" layer="1"/>
 <text x="1.775" y="-0.225" size="1" layer="25">&gt;NAME</text>
 </package>
-<package name="SOD3716X135N" library_version="54">
+<package name="SOD3716X135N" library_version="27">
 <description>&lt;b&gt;SOD-123 CASE425-04 ISSUE G&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -262,7 +262,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="1" x="-1.75" y="0" dx="1.15" dy="0.8" layer="1"/>
 <smd name="2" x="1.75" y="0" dx="1.15" dy="0.8" layer="1"/>
 </package>
-<package name="SOT95P280X125-5N" library_version="51">
+<package name="SOT95P280X125-5N" library_version="14">
 <description>&lt;b&gt;SSOP5&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="-1.4" y="0.95" dx="0.9" dy="0.6" layer="1"/>
@@ -287,7 +287,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="SOT95P280X120-5N" library_version="46">
+<package name="SOT95P280X120-5N" library_version="31">
 <description>&lt;b&gt;SOT23-5_1&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="-1.4" y="0.95" dx="0.9" dy="0.6" layer="1"/>
@@ -312,7 +312,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="FH34SRJ24S05SH99" library_version="1">
+<package name="FH34SRJ24S05SH99" library_version="25">
 <description>&lt;b&gt;FH34SRJ-24S-0.5SH(99)-4&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="5.75" y="1.45" dx="0.8" dy="0.3" layer="1" rot="R90"/>
@@ -359,7 +359,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="5.75" y1="2.4" x2="5.75" y2="2.3" width="0.1" layer="21" curve="180"/>
 <wire x1="5.75" y1="2.3" x2="5.75" y2="2.4" width="0.1" layer="21" curve="180"/>
 </package>
-<package name="SAMACSYS_PARTS_USB4110GFA" library_version="1">
+<package name="SAMACSYS_PARTS_USB4110GFA" library_version="2">
 <description>&lt;b&gt;USB4110-GF-A-1&lt;/b&gt;&lt;br&gt;</description>
 <wire x1="-4.47" y1="-3.677" x2="4.47" y2="-3.677" width="0.2" layer="51"/>
 <wire x1="4.47" y1="-3.677" x2="4.47" y2="3.673" width="0.2" layer="51"/>
@@ -405,7 +405,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="-2.89" y="2.603" drill="0.65"/>
 <hole x="2.89" y="2.603" drill="0.65"/>
 </package>
-<package name="JST04_1MM_RA" urn="urn:adsk.eagle:footprint:41390277/1" library_version="2">
+<package name="JST04_1MM_RA" urn="urn:adsk.eagle:footprint:41390277/1" library_version="29">
 <description>&lt;h3&gt;SMD- 4 Pin Right Angle &lt;/h3&gt;
 &lt;p&gt;Specifications:
 &lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;
@@ -429,7 +429,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.397" y="-2.159" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
 <text x="-1.651" y="-3.302" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
 </package>
-<package name="112ATAARR03ATTEND" library_version="2">
+<package name="112ATAARR03ATTEND" library_version="10">
 <description>&lt;b&gt;112A-TAAR-R03 ATTEND-1&lt;/b&gt;&lt;br&gt;</description>
 <wire x1="0.07" y1="-4.5" x2="14.07" y2="-4.5" width="0.2" layer="51"/>
 <wire x1="14.07" y1="-4.5" x2="14.07" y2="10.7" width="0.2" layer="51"/>
@@ -464,7 +464,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="7.095" y="3.1" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="7.095" y="3.1" size="1.27" layer="27" align="center">&gt;VALUE</text>
 </package>
-<package name="IND_4828-WE-TPC_WRE" library_version="56">
+<package name="IND_4828-WE-TPC_WRE" library_version="13">
 <smd name="1" x="-1.778" y="0" dx="1.524" dy="5.08" layer="1"/>
 <smd name="2" x="1.778" y="0" dx="1.524" dy="5.08" layer="1" rot="R180"/>
 <polygon width="0.0254" layer="1" pour="solid">
@@ -713,7 +713,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-3.2712" y="3.175" size="1.27" layer="27" ratio="6">&gt;Name</text>
 <text x="-2.9988" y="-4.445" size="1.27" layer="27" ratio="6">&gt;Value</text>
 </package>
-<package name="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" library_version="32">
+<package name="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" library_version="24">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
 <circle x="-1.6002" y="-1.016" radius="0.127" width="0" layer="21"/>
 <wire x1="1.27" y1="0.4294" x2="1.27" y2="-0.4294" width="0.2032" layer="21"/>
@@ -736,7 +736,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.778" y="2.159" size="0.6096" layer="25" ratio="20">&gt;NAME</text>
 <text x="-1.778" y="-2.794" size="0.6096" layer="27" ratio="20">&gt;VALUE</text>
 </package>
-<package name="ESP32C6_VARISTOR_CT/CN1812" library_version="12">
+<package name="ESP32C6_VARISTOR_CT/CN1812" library_version="22">
 <description>&lt;b&gt;EPCOS SMD Varistors, MLV; Standard Series&lt;/b&gt;&lt;p&gt;
 Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="-2.35" y1="1.55" x2="2.35" y2="1.55" width="0.1016" layer="51"/>
@@ -750,7 +750,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-2.5" y="2.5" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.5" y="-3.5" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="28">
+<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="11">
 <description>&lt;h3&gt;SOT23-3X&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -775,7 +775,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-1.651" y="0" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;NAME</text>
 <text x="1.651" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center">&gt;VALUE</text>
 </package>
-<package name="SOT65P210X110-3N" library_version="55">
+<package name="SOT65P210X110-3N" library_version="12">
 <description>&lt;b&gt;SC-70_3LEADS&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -798,7 +798,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="2" x="-1.05" y="-0.65" dx="1.05" dy="0.5" layer="1"/>
 <smd name="3" x="1.05" y="0" dx="1.05" dy="0.5" layer="1"/>
 </package>
-<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="20">
+<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="5">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -819,7 +819,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ESP32_WROVER_BME680_PSON80P300X300X100-8N" library_version="51">
+<package name="ESP32_WROVER_BME680_PSON80P300X300X100-8N" library_version="3">
 <circle x="2.045" y="1.2" radius="0.1" width="0.2" layer="21"/>
 <circle x="2.045" y="1.2" radius="0.1" width="0.2" layer="51"/>
 <wire x1="-1.53" y1="1.53" x2="-1.53" y2="-1.53" width="0.127" layer="51"/>
@@ -870,7 +870,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-0.762" y="-1.016" size="0.0254" layer="27">&gt;VALUE</text>
 <text x="0" y="-2.54" size="1" layer="37">&gt;TP_SIGNAL_NAME</text>
 </package>
-<package name="SON127P600X800X80-9N" library_version="42">
+<package name="SON127P600X800X80-9N" library_version="30">
 <wire x1="-4" y1="3" x2="4" y2="3" width="0.127" layer="51"/>
 <wire x1="-4" y1="-3" x2="4" y2="-3" width="0.127" layer="51"/>
 <wire x1="-4" y1="3" x2="-4" y2="-3" width="0.127" layer="51"/>
@@ -903,7 +903,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="8" x="3.895" y="1.905" dx="0.94" dy="0.44" layer="1" roundness="25"/>
 <smd name="9" x="0" y="0" dx="3.4" dy="4.3" layer="1" cream="no"/>
 </package>
-<package name="XCVR_ESP32-C6-WROOM-1-N8" library_version="1">
+<package name="XCVR_ESP32-C6-WROOM-1-N8" library_version="4">
 <text x="-9" y="13.25" size="1.27" layer="25">&gt;NAME</text>
 <text x="-9" y="-14.5" size="1.27" layer="27">&gt;VALUE</text>
 <wire x1="-9" y1="-12.75" x2="9" y2="-12.75" width="0.127" layer="51"/>
@@ -962,7 +962,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="29_8" x="-1.505" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 <smd name="29_9" x="-0.255" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 </package>
-<package name="SOIC127P1032X265-16N" library_version="57">
+<package name="SOIC127P1032X265-16N" library_version="21">
 <text x="-5.862790625" y="-6.06523125" size="1.27276875" layer="27" align="top-left">&gt;VALUE</text>
 <text x="-5.861540625" y="6.06393125" size="1.2725" layer="25">&gt;NAME</text>
 <circle x="-4.697" y="5.3" radius="0.1" width="0.2" layer="21"/>
@@ -994,7 +994,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="15" x="4.655" y="3.175" dx="2.05" dy="0.59" layer="1" roundness="25"/>
 <smd name="16" x="4.655" y="4.445" dx="2.05" dy="0.59" layer="1" roundness="25"/>
 </package>
-<package name="SON50P200X200X80-9N" library_version="68">
+<package name="SON50P200X200X80-9N" library_version="26">
 <rectangle x1="-0.28" y1="-0.41" x2="0.28" y2="0.41" layer="31"/>
 <circle x="-1.945" y="0.75" radius="0.1" width="0.2" layer="21"/>
 <circle x="-1.945" y="0.75" radius="0.1" width="0.2" layer="51"/>
@@ -1756,103 +1756,103 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="VALUE" x="95.21" y="25.2513" size="0.02" layer="27" rot="R90"/>
 </element>
 <element name="TP1" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="10.625" y="72.29" smashed="yes">
-<attribute name="NAME" x="9.625" y="73.34" size="1.016" layer="25"/>
 <attribute name="POPULARITY" value="2" x="57.615" y="-25.5" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="10.625" y="69.75" size="1" layer="37"/>
+<attribute name="TX" value="" x="9.625" y="73.29" size="1.016" layer="25" display="name"/>
 <attribute name="VALUE" x="9.863" y="71.274" size="0.0254" layer="27"/>
 </element>
 <element name="TP10" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="22.09" y="13.95" smashed="yes">
-<attribute name="NAME" x="20.49" y="11.8" size="1.016" layer="25"/>
+<attribute name="EPD_CS" value="" x="18.79" y="11.65" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="102.1" y="-78.76" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="22.09" y="11.41" size="1" layer="37"/>
 <attribute name="VALUE" x="21.328" y="12.934" size="0.0254" layer="27"/>
 </element>
 <element name="TP11" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="10.39" y="13.95" smashed="yes">
-<attribute name="NAME" x="8.79" y="11.8" size="1.016" layer="25"/>
+<attribute name="EPD_DC" value="" x="7.29" y="11.65" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="52.3" y="-83.84" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="10.39" y="11.41" size="1" layer="37"/>
 <attribute name="VALUE" x="9.628" y="12.934" size="0.0254" layer="27"/>
 </element>
 <element name="TP12" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="16.64" y="72.29" smashed="yes">
-<attribute name="NAME" x="15.64" y="73.34" size="1.016" layer="25"/>
+<attribute name="EPD_RST" value="" x="15.64" y="73.29" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="103" y="-20.42" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="16.64" y="69.75" size="1" layer="37"/>
 <attribute name="VALUE" x="15.878" y="71.274" size="0.0254" layer="27"/>
 </element>
 <element name="TP13" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="70.29" y="37.71" smashed="yes">
-<attribute name="NAME" x="69.29" y="38.76" size="1.016" layer="25"/>
+<attribute name="EPD_3V3_C" value="" x="65.29" y="39.01" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="163" y="-55" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="70.29" y="35.17" size="1" layer="37"/>
 <attribute name="VALUE" x="69.528" y="36.694" size="0.0254" layer="27"/>
 </element>
 <element name="TP14" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="120.09" y="58.79" smashed="yes">
-<attribute name="NAME" x="119.09" y="59.84" size="1.016" layer="25"/>
 <attribute name="POPULARITY" value="2" x="136.6" y="-39" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="120.09" y="56.25" size="1" layer="37"/>
 <attribute name="VALUE" x="119.328" y="57.774" size="0.0254" layer="27"/>
+<attribute name="VBUS" value="" x="114.59" y="57.89" size="1.016" layer="25" display="name"/>
 </element>
 <element name="TP15" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="18.565" y="13.95" smashed="yes">
-<attribute name="NAME" x="16.965" y="15.1" size="1.016" layer="25"/>
+<attribute name="INT_RTC" value="" x="15.865" y="15.15" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="41.425" y="-83.84" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="18.565" y="11.41" size="1" layer="37"/>
 <attribute name="VALUE" x="17.803" y="12.934" size="0.0254" layer="27"/>
 </element>
 <element name="TP16" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="165.59" y="12.29" smashed="yes">
-<attribute name="NAME" x="164.59" y="13.34" size="1.016" layer="25"/>
+<attribute name="3V3" value="" x="163.59" y="13.49" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="194.8" y="-85.5" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="165.59" y="9.75" size="1" layer="37"/>
 <attribute name="VALUE" x="164.828" y="11.274" size="0.0254" layer="27"/>
 </element>
 <element name="TP17" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="86.44" y="40.79" smashed="yes">
-<attribute name="NAME" x="88.44" y="40.84" size="1.016" layer="25"/>
+<attribute name="EPD_3V3" value="" x="87.74" y="41.59" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="122" y="-57" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="86.44" y="38.25" size="1" layer="37"/>
 <attribute name="VALUE" x="85.678" y="39.774" size="0.0254" layer="27"/>
 </element>
 <element name="TP2" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="13.6325" y="72.29" smashed="yes">
-<attribute name="NAME" x="12.6325" y="73.34" size="1.016" layer="25"/>
 <attribute name="POPULARITY" value="2" x="65.7025" y="-25.5" size="1.778" layer="27" display="off"/>
+<attribute name="RX" value="" x="12.6325" y="73.29" size="1.016" layer="25" display="name"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="13.6325" y="69.75" size="1" layer="37"/>
 <attribute name="VALUE" x="12.8705" y="71.274" size="0.0254" layer="27"/>
 </element>
 <element name="TP3" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="89.85" y="79.79" smashed="yes">
-<attribute name="NAME" x="88.85" y="80.84" size="1.016" layer="25"/>
 <attribute name="POPULARITY" value="2" x="147" y="-18" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="89.85" y="77.25" size="1" layer="37"/>
 <attribute name="VALUE" x="89.088" y="78.774" size="0.0254" layer="27"/>
+<attribute name="VBAT" value="" x="88.05" y="80.99" size="1.016" layer="25" display="name"/>
 </element>
 <element name="TP4" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="89.77" y="100.79" smashed="yes">
-<attribute name="NAME" x="88.77" y="101.84" size="1.016" layer="25"/>
+<attribute name="GND" value="" x="88.17" y="102.29" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="152" y="3" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="89.77" y="98.25" size="1" layer="37"/>
 <attribute name="VALUE" x="89.008" y="99.774" size="0.0254" layer="27"/>
 </element>
 <element name="TP5" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="4.69" y="12.79" smashed="yes">
-<attribute name="NAME" x="3.29" y="13.94" size="1.016" layer="25"/>
+<attribute name="GND" value="" x="3.09" y="14.19" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="72" y="-85" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="4.69" y="10.25" size="1" layer="37"/>
 <attribute name="VALUE" x="3.928" y="11.774" size="0.0254" layer="27"/>
 </element>
 <element name="TP6" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="4.61" y="72.29" smashed="yes">
-<attribute name="NAME" x="3.61" y="73.34" size="1.016" layer="25"/>
+<attribute name="MISO" value="" x="1.61" y="73.29" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="77" y="-25.5" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="4.61" y="69.75" size="1" layer="37"/>
 <attribute name="VALUE" x="3.848" y="71.274" size="0.0254" layer="27"/>
 </element>
 <element name="TP7" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="15.84" y="13.95" smashed="yes">
-<attribute name="NAME" x="14.54" y="11.8" size="1.016" layer="25"/>
+<attribute name="MOSI" value="" x="14.04" y="11.55" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="93.31" y="-83.84" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="15.84" y="11.41" size="1" layer="37"/>
 <attribute name="VALUE" x="15.078" y="12.934" size="0.0254" layer="27"/>
 </element>
 <element name="TP8" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="13.115" y="13.95" smashed="yes">
-<attribute name="NAME" x="11.715" y="15" size="1.016" layer="25"/>
 <attribute name="POPULARITY" value="2" x="95.665" y="-83.84" size="1.778" layer="27" display="off"/>
+<attribute name="SCK" value="" x="11.515" y="15.15" size="1.016" layer="25" display="name"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="13.115" y="11.41" size="1" layer="37"/>
 <attribute name="VALUE" x="12.353" y="12.934" size="0.0254" layer="27"/>
 </element>
 <element name="TP9" library="tsc-good-lib" library_urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA" package="TP20R" value="TPTP20R" x="7.6175" y="72.29" smashed="yes">
-<attribute name="NAME" x="6.6175" y="73.34" size="1.016" layer="25"/>
+<attribute name="EPD_BUSY" value="" x="3.6175" y="70.29" size="1.016" layer="25" display="name"/>
 <attribute name="POPULARITY" value="2" x="95.2475" y="-25.5" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="7.6175" y="69.75" size="1" layer="37"/>
 <attribute name="VALUE" x="6.8555" y="71.274" size="0.0254" layer="27"/>
@@ -3827,6 +3827,11 @@ with this version.
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets
 will not be understood (or retained) with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
 </note>
 <note version="8.5" severity="warning">
 Since Version 8.5, EAGLE supports locking for holes, vias, wires and polygons. 

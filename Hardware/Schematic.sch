@@ -75,7 +75,7 @@
 <libraries>
 <library name="tsc-good-lib" urn="urn:adsk.wipprod:fs.file:vf.6sVSyJKdRNa33xqBUqgJvA">
 <packages>
-<package name="SAMACSYS_PARTS_USB4110GFA" library_version="1">
+<package name="SAMACSYS_PARTS_USB4110GFA" library_version="2">
 <description>&lt;b&gt;USB4110-GF-A-1&lt;/b&gt;&lt;br&gt;</description>
 <wire x1="-4.47" y1="-3.677" x2="4.47" y2="-3.677" width="0.2" layer="51"/>
 <wire x1="4.47" y1="-3.677" x2="4.47" y2="3.673" width="0.2" layer="51"/>
@@ -121,7 +121,7 @@
 <hole x="-2.89" y="2.603" drill="0.65"/>
 <hole x="2.89" y="2.603" drill="0.65"/>
 </package>
-<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="20">
+<package name="ESP32_WROVER_EAGLE-LTSPICE_R0402" library_version="5">
 <description>&lt;b&gt;RESISTOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -142,7 +142,7 @@
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ESP32C6_VARISTOR_CT/CN1812" library_version="12">
+<package name="ESP32C6_VARISTOR_CT/CN1812" library_version="22">
 <description>&lt;b&gt;EPCOS SMD Varistors, MLV; Standard Series&lt;/b&gt;&lt;p&gt;
 Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="-2.35" y1="1.55" x2="2.35" y2="1.55" width="0.1016" layer="51"/>
@@ -156,7 +156,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-2.5" y="2.5" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.5" y="-3.5" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SOT95P280X145-6N" library_version="9">
+<package name="SOT95P280X145-6N" library_version="7">
 <description>&lt;b&gt;SOT23-6(ESDA6V1-5SC6Y)&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -182,7 +182,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="5" x="1.25" y="0" dx="1.2" dy="0.6" layer="1"/>
 <smd name="6" x="1.25" y="0.95" dx="1.2" dy="0.6" layer="1"/>
 </package>
-<package name="ESP32_WROVER_EAGLE-LTSPICE_C0402" library_version="20">
+<package name="ESP32_WROVER_EAGLE-LTSPICE_C0402" library_version="6">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.224" x2="0.245" y2="0.224" width="0.1524" layer="51"/>
 <wire x1="0.245" y1="-0.224" x2="-0.245" y2="-0.224" width="0.1524" layer="51"/>
@@ -198,7 +198,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-0.635" y="0.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-0.635" y="-1.905" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SOT95P280X120-5N" library_version="46">
+<package name="SOT95P280X120-5N" library_version="31">
 <description>&lt;b&gt;SOT23-5_1&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="-1.4" y="0.95" dx="0.9" dy="0.6" layer="1"/>
@@ -223,7 +223,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="28">
+<package name="ESP32_WROVER_SPARKFUN-DISCRETESEMI_SOT23-3" library_version="11">
 <description>&lt;h3&gt;SOT23-3X&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -248,7 +248,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-1.651" y="0" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;NAME</text>
 <text x="1.651" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center">&gt;VALUE</text>
 </package>
-<package name="RCL_CT3528" library_version="31">
+<package name="RCL_CT3528" library_version="9">
 <description>&lt;b&gt;TANTALUM CAPACITOR&lt;/b&gt;</description>
 <wire x1="-2.973" y1="1.983" x2="2.973" y2="1.983" width="0.0508" layer="39"/>
 <wire x1="2.973" y1="-1.983" x2="-2.973" y2="-1.983" width="0.0508" layer="39"/>
@@ -268,7 +268,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="62">
+<package name="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0" library_version="23">
 <description>Schottky Barrier Rectifier Diode</description>
 <wire x1="-1" y1="-0.65" x2="-1" y2="0.65" width="0.15" layer="51"/>
 <wire x1="-1" y1="0.65" x2="1" y2="0.65" width="0.15" layer="51"/>
@@ -285,7 +285,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="2" x="1.05" y="0" dx="0.8" dy="0.9" layer="1"/>
 <text x="1.775" y="-0.225" size="1" layer="25">&gt;NAME</text>
 </package>
-<package name="112ATAARR03ATTEND" library_version="2">
+<package name="112ATAARR03ATTEND" library_version="10">
 <description>&lt;b&gt;112A-TAAR-R03 ATTEND-1&lt;/b&gt;&lt;br&gt;</description>
 <wire x1="0.07" y1="-4.5" x2="14.07" y2="-4.5" width="0.2" layer="51"/>
 <wire x1="14.07" y1="-4.5" x2="14.07" y2="10.7" width="0.2" layer="51"/>
@@ -340,7 +340,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-1.651" y="1.143" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="0.4001" y="0" size="0.02" layer="27">&gt;VALUE</text>
 </package>
-<package name="IND_4828-WE-TPC_WRE" library_version="56">
+<package name="IND_4828-WE-TPC_WRE" library_version="13">
 <smd name="1" x="-1.778" y="0" dx="1.524" dy="5.08" layer="1"/>
 <smd name="2" x="1.778" y="0" dx="1.524" dy="5.08" layer="1" rot="R180"/>
 <polygon width="0.0254" layer="1" pour="solid">
@@ -589,7 +589,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-3.2712" y="3.175" size="1.27" layer="27" ratio="6">&gt;Name</text>
 <text x="-2.9988" y="-4.445" size="1.27" layer="27" ratio="6">&gt;Value</text>
 </package>
-<package name="SOD3716X135N" library_version="54">
+<package name="SOD3716X135N" library_version="27">
 <description>&lt;b&gt;SOD-123 CASE425-04 ISSUE G&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -608,7 +608,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="1" x="-1.75" y="0" dx="1.15" dy="0.8" layer="1"/>
 <smd name="2" x="1.75" y="0" dx="1.15" dy="0.8" layer="1"/>
 </package>
-<package name="SOT65P210X110-3N" library_version="55">
+<package name="SOT65P210X110-3N" library_version="12">
 <description>&lt;b&gt;SC-70_3LEADS&lt;/b&gt;&lt;br&gt;
 </description>
 <text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
@@ -631,7 +631,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <smd name="2" x="-1.05" y="-0.65" dx="1.05" dy="0.5" layer="1"/>
 <smd name="3" x="1.05" y="0" dx="1.05" dy="0.5" layer="1"/>
 </package>
-<package name="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" library_version="32">
+<package name="ESP32_WROVER_SPARKFUN-IC-POWER_SOT23-5" library_version="24">
 <description>&lt;b&gt;Small Outline Transistor&lt;/b&gt;</description>
 <circle x="-1.6002" y="-1.016" radius="0.127" width="0" layer="21"/>
 <wire x1="1.27" y1="0.4294" x2="1.27" y2="-0.4294" width="0.2032" layer="21"/>
@@ -654,7 +654,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <text x="-1.778" y="2.159" size="0.6096" layer="25" ratio="20">&gt;NAME</text>
 <text x="-1.778" y="-2.794" size="0.6096" layer="27" ratio="20">&gt;VALUE</text>
 </package>
-<package name="ADAFRUIT_CHIP-LED0603" library_version="30">
+<package name="ADAFRUIT_CHIP-LED0603" library_version="8">
 <description>&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;
 LB Q993&lt;br&gt;
 Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
@@ -670,7 +670,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-0.635" y="-0.635" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="1.905" y="-0.635" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="XCVR_ESP32-C6-WROOM-1-N8" library_version="1">
+<package name="XCVR_ESP32-C6-WROOM-1-N8" library_version="4">
 <text x="-9" y="13.25" size="1.27" layer="25">&gt;NAME</text>
 <text x="-9" y="-14.5" size="1.27" layer="27">&gt;VALUE</text>
 <wire x1="-9" y1="-12.75" x2="9" y2="-12.75" width="0.127" layer="51"/>
@@ -729,7 +729,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="29_8" x="-1.505" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 <smd name="29_9" x="-0.255" y="-1.71" dx="0.8" dy="0.8" layer="1"/>
 </package>
-<package name="FH34SRJ24S05SH99" library_version="1">
+<package name="FH34SRJ24S05SH99" library_version="25">
 <description>&lt;b&gt;FH34SRJ-24S-0.5SH(99)-4&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="5.75" y="1.45" dx="0.8" dy="0.3" layer="1" rot="R90"/>
@@ -776,7 +776,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="5.75" y1="2.4" x2="5.75" y2="2.3" width="0.1" layer="21" curve="180"/>
 <wire x1="5.75" y1="2.3" x2="5.75" y2="2.4" width="0.1" layer="21" curve="180"/>
 </package>
-<package name="ESP32_WROVER_BME680_PSON80P300X300X100-8N" library_version="51">
+<package name="ESP32_WROVER_BME680_PSON80P300X300X100-8N" library_version="3">
 <circle x="2.045" y="1.2" radius="0.1" width="0.2" layer="21"/>
 <circle x="2.045" y="1.2" radius="0.1" width="0.2" layer="51"/>
 <wire x1="-1.53" y1="1.53" x2="-1.53" y2="-1.53" width="0.127" layer="51"/>
@@ -800,7 +800,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.858090625" y="1.9939" size="0.814009375" layer="25" ratio="11">&gt;NAME</text>
 <text x="-1.927440625" y="-2.760059375" size="0.81416875" layer="27" ratio="11">&gt;VALUE</text>
 </package>
-<package name="SOT95P280X125-5N" library_version="51">
+<package name="SOT95P280X125-5N" library_version="14">
 <description>&lt;b&gt;SSOP5&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="-1.4" y="0.95" dx="0.9" dy="0.6" layer="1"/>
@@ -825,7 +825,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-0.6" y1="-1.45" x2="-0.6" y2="1.45" width="0.2" layer="21"/>
 <wire x1="-1.85" y1="1.5" x2="-0.95" y2="1.5" width="0.2" layer="21"/>
 </package>
-<package name="MYBUTTON" library_version="46">
+<package name="MYBUTTON" library_version="19">
 <description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST - SMD, 4.6 x 2.8mm&lt;/h3&gt;
 &lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.ck-components.com/media/1479/kmr2.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;</description>
@@ -843,7 +843,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="0.9" y1="-2.1" x2="0.9" y2="-1.45" width="0.127" layer="21"/>
 <wire x1="-0.9" y1="-2.1" x2="0.9" y2="-2.1" width="0.127" layer="21"/>
 </package>
-<package name="SON50P200X200X80-9N" library_version="68">
+<package name="SON50P200X200X80-9N" library_version="26">
 <rectangle x1="-0.28" y1="-0.41" x2="0.28" y2="0.41" layer="31"/>
 <circle x="-1.945" y="0.75" radius="0.1" width="0.2" layer="21"/>
 <circle x="-1.945" y="0.75" radius="0.1" width="0.2" layer="51"/>
@@ -869,7 +869,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="8" x="0.985" y="0.75" dx="0.76" dy="0.27" layer="1" roundness="25"/>
 <smd name="9" x="0" y="0" dx="0.9" dy="1.3" layer="1" cream="no"/>
 </package>
-<package name="SOIC127P1032X265-16N" library_version="57">
+<package name="SOIC127P1032X265-16N" library_version="21">
 <text x="-5.862790625" y="-6.06523125" size="1.27276875" layer="27" align="top-left">&gt;VALUE</text>
 <text x="-5.861540625" y="6.06393125" size="1.2725" layer="25">&gt;NAME</text>
 <circle x="-4.697" y="5.3" radius="0.1" width="0.2" layer="21"/>
@@ -901,7 +901,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="15" x="4.655" y="3.175" dx="2.05" dy="0.59" layer="1" roundness="25"/>
 <smd name="16" x="4.655" y="4.445" dx="2.05" dy="0.59" layer="1" roundness="25"/>
 </package>
-<package name="CAPCP3225X100N" library_version="63">
+<package name="CAPCP3225X100N" library_version="20">
 <wire x1="1.6" y1="-1.25" x2="-1.6" y2="-1.25" width="0.127" layer="51"/>
 <wire x1="-1.6" y1="-1.25" x2="-1.6" y2="1.25" width="0.127" layer="51"/>
 <wire x1="-1.6" y1="1.25" x2="1.6" y2="1.25" width="0.127" layer="51"/>
@@ -929,7 +929,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-0.762" y="-1.016" size="0.0254" layer="27">&gt;VALUE</text>
 <text x="0" y="-2.54" size="1" layer="37">&gt;TP_SIGNAL_NAME</text>
 </package>
-<package name="JST04_1MM_RA" urn="urn:adsk.eagle:footprint:41390277/1" library_version="2">
+<package name="JST04_1MM_RA" urn="urn:adsk.eagle:footprint:41390277/1" library_version="29">
 <description>&lt;h3&gt;SMD- 4 Pin Right Angle &lt;/h3&gt;
 &lt;p&gt;Specifications:
 &lt;ul&gt;&lt;li&gt;Pin count:4&lt;/li&gt;
@@ -953,7 +953,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.397" y="-2.159" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
 <text x="-1.651" y="-3.302" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
 </package>
-<package name="DIOC1608X36N" library_version="44">
+<package name="DIOC1608X36N" library_version="28">
 <wire x1="-0.83" y1="-0.42" x2="-0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="-0.83" y1="0.42" x2="0.83" y2="0.42" width="0.127" layer="51"/>
 <wire x1="0.83" y1="0.42" x2="0.83" y2="-0.42" width="0.127" layer="51"/>
@@ -967,7 +967,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="1" x="-0.75" y="0" dx="0.97" dy="0.94" layer="1"/>
 <smd name="2" x="0.75" y="0" dx="0.97" dy="0.94" layer="1"/>
 </package>
-<package name="SON127P600X800X80-9N" library_version="42">
+<package name="SON127P600X800X80-9N" library_version="30">
 <wire x1="-4" y1="3" x2="4" y2="3" width="0.127" layer="51"/>
 <wire x1="-4" y1="-3" x2="4" y2="-3" width="0.127" layer="51"/>
 <wire x1="-4" y1="3" x2="-4" y2="-3" width="0.127" layer="51"/>
@@ -1955,7 +1955,7 @@ Source: &lt;a href="http://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF"&gt; Da
 </device>
 </devices>
 </deviceset>
-<deviceset name="SI1308EDL-T1-GE3" prefix="Q" library_version="64">
+<deviceset name="SI1308EDL-T1-GE3" prefix="Q" library_version="12">
 <description>&lt;b&gt;MOSFET N-Ch 30V 1.5A TrenchFET SC70 Vishay Si1308EDL-T1-GE3 N-channel MOSFET Transistor, 1.5 A, 30 V, 3-Pin SC-70&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-GE3.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/SI1308EDL-T1-GE3/Vishay%20Siliconix/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -2012,7 +2012,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-
 </device>
 </devices>
 </deviceset>
-<deviceset name="ADAFRUIT_LED" prefix="LED" uservalue="yes" library_version="64">
+<deviceset name="ADAFRUIT_LED" prefix="LED" uservalue="yes" library_version="8">
 <description>&lt;b&gt;LED&lt;/b&gt;&lt;p&gt;
 &lt;u&gt;OSRAM&lt;/u&gt;:&lt;br&gt;
 
@@ -2139,7 +2139,7 @@ Source: http://www.osram.convergy.de/</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="FH34SRJ-24S-0.5SH_99_" prefix="J" library_version="1">
+<deviceset name="FH34SRJ-24S-0.5SH_99_" prefix="J" library_version="25">
 <description>&lt;b&gt;24 Position FFC, FPC Connector Contacts, Top and Bottom 0.020" (0.50mm) Surface Mount, Right Angle&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.hirose.com/en/product/document?clcode=CL0580-1255-6-99&amp;productname=FH34SRJ-24S-0.5SH(99)&amp;series=FH34SRJ&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000990903"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -3298,75 +3298,75 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <pinref part="SUPPLY3" gate="G$1" pin="GND"/>
 <wire x1="27.94" y1="208.28" x2="35.56" y2="208.28" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="J2" gate="G$1" pin="A12"/>
-<pinref part="J2" gate="G$1" pin="B1"/>
 <wire x1="35.56" y1="208.28" x2="38.1" y2="208.28" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="38.1" y1="205.74" x2="35.56" y2="205.74" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="35.56" y1="205.74" x2="35.56" y2="208.28" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="35.56" y="208.28" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="A12"/>
+<pinref part="J2" gate="G$1" pin="B1"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="B12"/>
 <pinref part="SUPPLY5" gate="G$1" pin="GND"/>
 <wire x1="63.5" y1="213.36" x2="66.04" y2="213.36" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="J2" gate="G$1" pin="MP1"/>
 <wire x1="66.04" y1="213.36" x2="73.66" y2="213.36" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="63.5" y1="210.82" x2="66.04" y2="210.82" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="66.04" y1="210.82" x2="66.04" y2="213.36" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="J2" gate="G$1" pin="MP2"/>
 <wire x1="63.5" y1="208.28" x2="66.04" y2="208.28" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="66.04" y1="208.28" x2="66.04" y2="210.82" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="J2" gate="G$1" pin="MP3"/>
 <wire x1="63.5" y1="205.74" x2="66.04" y2="205.74" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="66.04" y1="205.74" x2="66.04" y2="208.28" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="J2" gate="G$1" pin="MP4"/>
 <wire x1="63.5" y1="203.2" x2="66.04" y2="203.2" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="66.04" y1="203.2" x2="66.04" y2="205.74" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="66.04" y="213.36" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="66.04" y="210.82" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="66.04" y="208.28" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="66.04" y="205.74" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="B12"/>
+<pinref part="J2" gate="G$1" pin="MP1"/>
+<pinref part="J2" gate="G$1" pin="MP2"/>
+<pinref part="J2" gate="G$1" pin="MP3"/>
+<pinref part="J2" gate="G$1" pin="MP4"/>
 </segment>
 <segment>
-<pinref part="R2-USB" gate="G$1" pin="2"/>
 <wire x1="76.2" y1="226.06" x2="83.82" y2="226.06" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <pinref part="SUPPLY4" gate="G$1" pin="GND"/>
+<pinref part="R2-USB" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="VBUS"/>
 <wire x1="127" y1="233.68" x2="129.54" y2="233.68" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <pinref part="SUPPLY6" gate="G$1" pin="GND"/>
+<pinref part="D1" gate="G$1" pin="VBUS"/>
 </segment>
 <segment>
-<pinref part="C4_USB" gate="G$1" pin="2"/>
 <wire x1="111.76" y1="205.74" x2="111.76" y2="203.2" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="111.76" y1="203.2" x2="116.84" y2="203.2" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <pinref part="SUPPLY7" gate="G$1" pin="GND"/>
 <wire x1="116.84" y1="203.2" x2="121.92" y2="203.2" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="121.92" y1="203.2" x2="121.92" y2="205.74" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="C5_USB" gate="G$1" pin="2"/>
 <junction x="116.84" y="203.2" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="C4_USB" gate="G$1" pin="2"/>
+<pinref part="C5_USB" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C1_BAT2" gate="G$1" pin="2"/>
 <wire x1="236.22" y1="203.2" x2="236.22" y2="198.12" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="C3" gate="G$1" pin="-"/>
 <wire x1="236.22" y1="198.12" x2="236.22" y2="193.04" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="241.3" y1="203.2" x2="241.3" y2="198.12" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="241.3" y1="198.12" x2="236.22" y2="198.12" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <pinref part="SUPPLY9" gate="G$1" pin="GND"/>
 <junction x="236.22" y="198.12" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="C1_BAT2" gate="G$1" pin="2"/>
+<pinref part="C3" gate="G$1" pin="-"/>
 </segment>
 <segment>
-<pinref part="C1_BAT1" gate="G$1" pin="2"/>
 <wire x1="180.34" y1="203.2" x2="180.34" y2="200.66" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <pinref part="SUPPLY10" gate="G$1" pin="GND"/>
-<pinref part="IC4" gate="G$1" pin="VSS"/>
 <wire x1="180.34" y1="200.66" x2="180.34" y2="193.04" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="200.66" y1="213.36" x2="198.12" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="198.12" y1="213.36" x2="198.12" y2="200.66" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="198.12" y1="200.66" x2="180.34" y2="200.66" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="180.34" y="200.66" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="C1_BAT1" gate="G$1" pin="2"/>
+<pinref part="IC4" gate="G$1" pin="VSS"/>
 </segment>
 <segment>
 <pinref part="SUPPLY11" gate="G$1" pin="GND"/>
@@ -3376,29 +3376,29 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <segment>
 <pinref part="SUPPLY14" gate="G$1" pin="GND"/>
 <wire x1="266.7" y1="228.6" x2="271.78" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
-<pinref part="J4" gate="G$1" pin="GND_1"/>
-<pinref part="J4" gate="G$1" pin="GND_2"/>
 <wire x1="271.78" y1="228.6" x2="274.32" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <wire x1="274.32" y1="226.06" x2="271.78" y2="226.06" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <wire x1="271.78" y1="226.06" x2="271.78" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
-<pinref part="J4" gate="G$1" pin="GND_3"/>
 <wire x1="274.32" y1="223.52" x2="271.78" y2="223.52" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <wire x1="271.78" y1="223.52" x2="271.78" y2="226.06" width="0.1524" layer="91" grouprefs="SD_CARD"/>
-<pinref part="J4" gate="G$1" pin="GND_4"/>
 <wire x1="274.32" y1="220.98" x2="271.78" y2="220.98" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <wire x1="271.78" y1="220.98" x2="271.78" y2="223.52" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <junction x="271.78" y="228.6" grouprefs="SD_CARD"/>
 <junction x="271.78" y="226.06" grouprefs="SD_CARD"/>
 <junction x="271.78" y="223.52" grouprefs="SD_CARD"/>
+<pinref part="J4" gate="G$1" pin="GND_1"/>
+<pinref part="J4" gate="G$1" pin="GND_2"/>
+<pinref part="J4" gate="G$1" pin="GND_3"/>
+<pinref part="J4" gate="G$1" pin="GND_4"/>
 </segment>
 <segment>
-<pinref part="C9" gate="G$1" pin="2"/>
 <wire x1="330.2" y1="228.6" x2="332.74" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <wire x1="332.74" y1="228.6" x2="332.74" y2="223.52" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <pinref part="SUPPLY12" gate="G$1" pin="GND"/>
-<pinref part="J4" gate="G$1" pin="VSS"/>
 <wire x1="314.96" y1="223.52" x2="332.74" y2="223.52" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <junction x="332.74" y="223.52" grouprefs="SD_CARD"/>
+<pinref part="C9" gate="G$1" pin="2"/>
+<pinref part="J4" gate="G$1" pin="VSS"/>
 </segment>
 <segment>
 <pinref part="SUPPLY15" gate="G$1" pin="GND"/>
@@ -3413,76 +3413,74 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="R2" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="10.16" y1="160.02" x2="10.16" y2="157.48" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <pinref part="SUPPLY17" gate="G$1" pin="GND"/>
+<pinref part="C7" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="D3" gate="G$1" pin="K"/>
 <wire x1="55.88" y1="175.26" x2="58.42" y2="175.26" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <pinref part="SUPPLY18" gate="G$1" pin="GND"/>
+<pinref part="D3" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="81.28" y1="157.48" x2="81.28" y2="154.94" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <pinref part="SUPPLY19" gate="G$1" pin="GND"/>
+<pinref part="R4" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="C1_BAT" gate="G$1" pin="2"/>
 <wire x1="149.86" y1="157.48" x2="149.86" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="SUPPLY20" gate="G$1" pin="GND"/>
+<pinref part="C1_BAT" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="MCP73831" gate="G$1" pin="VSS"/>
 <wire x1="193.04" y1="165.1" x2="195.58" y2="165.1" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="195.58" y1="165.1" x2="195.58" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="SUPPLY21" gate="G$1" pin="GND"/>
+<pinref part="MCP73831" gate="G$1" pin="VSS"/>
 </segment>
 <segment>
-<pinref part="R2_BAT" gate="G$1" pin="1"/>
 <wire x1="203.2" y1="149.86" x2="203.2" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="SUPPLY22" gate="G$1" pin="GND"/>
+<pinref part="R2_BAT" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="C2_BAT" gate="G$1" pin="2"/>
 <wire x1="210.82" y1="154.94" x2="210.82" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="SUPPLY23" gate="G$1" pin="GND"/>
+<pinref part="C2_BAT" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="GND"/>
 <wire x1="363.22" y1="137.16" x2="368.3" y2="137.16" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <pinref part="SUPPLY26" gate="G$1" pin="GND"/>
+<pinref part="U2" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="MP2"/>
 <wire x1="91.44" y1="121.92" x2="96.52" y2="121.92" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="96.52" y1="121.92" x2="96.52" y2="119.38" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="SUPPLY27" gate="G$1" pin="GND"/>
-<pinref part="J1" gate="G$1" pin="MP1"/>
 <wire x1="91.44" y1="119.38" x2="96.52" y2="119.38" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="96.52" y="119.38" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="MP1"/>
+<pinref part="J1" gate="G$1" pin="MP2"/>
 </segment>
 <segment>
-<pinref part="EPD_C1" gate="G$1" pin="1"/>
 <wire x1="27.94" y1="71.12" x2="20.32" y2="71.12" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="20.32" y1="71.12" x2="10.16" y2="71.12" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="10.16" y1="71.12" x2="10.16" y2="81.28" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="SUPPLY30" gate="G$1" pin="GND"/>
-<pinref part="EPD_C2" gate="G$1" pin="1"/>
 <wire x1="10.16" y1="81.28" x2="10.16" y2="83.82" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="43.18" y1="73.66" x2="20.32" y2="73.66" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="20.32" y1="73.66" x2="20.32" y2="71.12" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="J1" gate="G$1" pin="8"/>
 <wire x1="66.04" y1="81.28" x2="10.16" y2="81.28" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="20.32" y="71.12" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="10.16" y="81.28" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C1" gate="G$1" pin="1"/>
+<pinref part="EPD_C2" gate="G$1" pin="1"/>
+<pinref part="J1" gate="G$1" pin="8"/>
 </segment>
 <segment>
-<pinref part="EPD_C5" gate="G$1" pin="1"/>
 <wire x1="27.94" y1="99.06" x2="17.78" y2="99.06" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="17.78" y1="99.06" x2="17.78" y2="106.68" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="SUPPLY29" gate="G$1" pin="GND"/>
-<pinref part="EPD_C6" gate="G$1" pin="1"/>
 <wire x1="17.78" y1="106.68" x2="17.78" y2="109.22" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="17.78" y1="109.22" x2="17.78" y2="111.76" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="17.78" y1="111.76" x2="17.78" y2="114.3" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
@@ -3492,68 +3490,68 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="17.78" y1="121.92" x2="17.78" y2="124.46" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="43.18" y1="106.68" x2="17.78" y2="106.68" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="106.68" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C7" gate="G$1" pin="1"/>
 <wire x1="27.94" y1="109.22" x2="17.78" y2="109.22" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="109.22" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C9" gate="G$1" pin="1"/>
 <wire x1="27.94" y1="114.3" x2="17.78" y2="114.3" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="114.3" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C11" gate="G$1" pin="1"/>
 <wire x1="27.94" y1="119.38" x2="17.78" y2="119.38" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="119.38" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C12" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="121.92" x2="17.78" y2="121.92" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="121.92" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C10" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="116.84" x2="17.78" y2="116.84" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="116.84" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C8" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="111.76" x2="17.78" y2="111.76" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="17.78" y="111.76" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C5" gate="G$1" pin="1"/>
+<pinref part="EPD_C6" gate="G$1" pin="1"/>
+<pinref part="EPD_C7" gate="G$1" pin="1"/>
+<pinref part="EPD_C8" gate="G$1" pin="1"/>
+<pinref part="EPD_C9" gate="G$1" pin="1"/>
+<pinref part="EPD_C10" gate="G$1" pin="1"/>
+<pinref part="EPD_C11" gate="G$1" pin="1"/>
+<pinref part="EPD_C12" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="17"/>
 <wire x1="66.04" y1="104.14" x2="10.16" y2="104.14" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="10.16" y1="104.14" x2="10.16" y2="124.46" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="SUPPLY28" gate="G$1" pin="GND"/>
+<pinref part="J1" gate="G$1" pin="17"/>
 </segment>
 <segment>
-<pinref part="SENSOR2" gate="G$1" pin="GND"/>
 <wire x1="322.58" y1="88.9" x2="325.12" y2="88.9" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="325.12" y1="88.9" x2="325.12" y2="86.36" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <pinref part="SUPPLY34" gate="G$1" pin="GND"/>
+<pinref part="SENSOR2" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="SENSOR2" gate="G$1" pin="SDO"/>
 <wire x1="292.1" y1="93.98" x2="289.56" y2="93.98" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="289.56" y1="93.98" x2="289.56" y2="88.9" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <pinref part="SUPPLY33" gate="G$1" pin="GND"/>
+<pinref part="SENSOR2" gate="G$1" pin="SDO"/>
 </segment>
 <segment>
 <pinref part="SUPPLY35" gate="G$1" pin="GND"/>
 <wire x1="363.22" y1="88.9" x2="363.22" y2="91.44" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="358.14" y1="93.98" x2="358.14" y2="91.44" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="358.14" y1="91.44" x2="363.22" y2="91.44" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="363.22" y1="91.44" x2="368.3" y2="91.44" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="368.3" y1="91.44" x2="368.3" y2="93.98" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="C1" gate="G$1" pin="2"/>
 <junction x="363.22" y="91.44" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C_DELAY" gate="G$1" pin="2"/>
 <wire x1="111.76" y1="88.9" x2="111.76" y2="86.36" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="SUPPLY37" gate="G$1" pin="GND"/>
+<pinref part="C_DELAY" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="GND"/>
 <wire x1="139.7" y1="109.22" x2="142.24" y2="109.22" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="SUPPLY36" gate="G$1" pin="GND"/>
+<pinref part="IC1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="RESET_BUTTON" gate="G$1" pin="1"/>
 <wire x1="152.4" y1="91.44" x2="154.94" y2="91.44" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="2"/>
 <wire x1="154.94" y1="91.44" x2="154.94" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="154.94" y="91.44" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="SUPPLY38" gate="G$1" pin="GND"/>
@@ -3562,12 +3560,12 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="154.94" y1="88.9" x2="158.496" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="158.496" y1="88.9" x2="158.496" y2="92.71" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="C5" gate="G$1" pin="2"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="1"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY39" gate="G$1" pin="GND"/>
 <wire x1="177.8" y1="86.36" x2="177.8" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="2"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="1"/>
 <wire x1="177.8" y1="88.9" x2="177.8" y2="91.44" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="175.26" y1="91.44" x2="177.8" y2="91.44" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="177.8" y="91.44" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
@@ -3575,12 +3573,12 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="177.8" y1="88.9" x2="181.356" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="181.356" y1="88.9" x2="181.356" y2="92.71" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="C6" gate="G$1" pin="2"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="1"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY40" gate="G$1" pin="GND"/>
 <wire x1="200.66" y1="86.36" x2="200.66" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="2"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="1"/>
 <wire x1="200.66" y1="88.9" x2="200.66" y2="91.44" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="198.12" y1="91.44" x2="200.66" y2="91.44" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="200.66" y="91.44" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
@@ -3588,43 +3586,45 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="200.66" y1="88.9" x2="203.962" y2="88.9" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="203.962" y1="88.9" x2="203.962" y2="92.964" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="C10" gate="G$1" pin="2"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="1"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="CTG"/>
 <wire x1="261.62" y1="114.3" x2="266.7" y2="114.3" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <pinref part="SUPPLY45" gate="G$1" pin="GND"/>
+<pinref part="U4" gate="G$1" pin="CTG"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="EP"/>
 <wire x1="261.62" y1="106.68" x2="266.7" y2="106.68" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <pinref part="SUPPLY46" gate="G$1" pin="GND"/>
+<pinref part="U4" gate="G$1" pin="EP"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="GND"/>
 <wire x1="261.62" y1="88.9" x2="266.7" y2="88.9" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <pinref part="SUPPLY47" gate="G$1" pin="GND"/>
+<pinref part="U4" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="QSTRT"/>
 <wire x1="226.06" y1="101.6" x2="223.52" y2="101.6" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <wire x1="223.52" y1="101.6" x2="223.52" y2="104.14" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <pinref part="SUPPLY48" gate="G$1" pin="GND"/>
+<pinref part="U4" gate="G$1" pin="QSTRT"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="GND"/>
 <wire x1="50.8" y1="22.86" x2="53.34" y2="22.86" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="53.34" y1="22.86" x2="53.34" y2="20.32" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <pinref part="SUPPLY49" gate="G$1" pin="GND"/>
+<pinref part="U3" gate="A" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C10_SUPERCAP" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="17.78" x2="99.06" y2="15.24" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <pinref part="SUPPLY52" gate="G$1" pin="GND"/>
-<pinref part="C8" gate="G$1" pin="2"/>
 <wire x1="99.06" y1="15.24" x2="99.06" y2="12.7" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="91.44" y1="17.78" x2="91.44" y2="15.24" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="91.44" y1="15.24" x2="99.06" y2="15.24" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <junction x="99.06" y="15.24" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="C8" gate="G$1" pin="2"/>
+<pinref part="C10_SUPERCAP" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP4" gate="G$1" pin="TP"/>
@@ -3637,8 +3637,8 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="139.7" y="38.1" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="J3" gate="J1" pin="1"/>
 <pinref part="SUPPLY54" gate="G$1" pin="GND"/>
+<pinref part="J3" gate="J1" pin="1"/>
 </segment>
 <segment>
 <pinref part="SUPPLY57" gate="G$1" pin="GND"/>
@@ -3649,156 +3649,156 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="218.44" y1="10.16" x2="228.6" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="228.6" y1="10.16" x2="238.76" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="238.76" y1="10.16" x2="238.76" y2="12.7" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D8" gate="G$1" pin="1"/>
-<pinref part="D12" gate="G$1" pin="1"/>
 <wire x1="187.96" y1="12.7" x2="187.96" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D11" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="12.7" x2="198.12" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D10" gate="G$1" pin="1"/>
 <wire x1="208.28" y1="12.7" x2="208.28" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D9" gate="G$1" pin="1"/>
 <wire x1="218.44" y1="12.7" x2="218.44" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D6" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="12.7" x2="228.6" y2="10.16" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="187.96" y="10.16" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="198.12" y="10.16" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="208.28" y="10.16" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="218.44" y="10.16" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="228.6" y="10.16" grouprefs="SPI_ESD_PROTECTION_LINES"/>
+<pinref part="D6" gate="G$1" pin="1"/>
+<pinref part="D8" gate="G$1" pin="1"/>
+<pinref part="D9" gate="G$1" pin="1"/>
+<pinref part="D10" gate="G$1" pin="1"/>
+<pinref part="D11" gate="G$1" pin="1"/>
+<pinref part="D12" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="GND"/>
 <wire x1="358.14" y1="43.18" x2="360.68" y2="43.18" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <pinref part="SUPPLY59" gate="G$1" pin="GND"/>
-<pinref part="U1" gate="G$1" pin="EXP"/>
 <wire x1="358.14" y1="45.72" x2="360.68" y2="45.72" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <wire x1="360.68" y1="45.72" x2="360.68" y2="43.18" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <wire x1="360.68" y1="43.18" x2="360.68" y2="40.64" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <junction x="360.68" y="43.18"/>
+<pinref part="U1" gate="G$1" pin="GND"/>
+<pinref part="U1" gate="G$1" pin="EXP"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
-<pinref part="R2-USB1" gate="G$1" pin="2"/>
 <wire x1="33.02" y1="220.98" x2="38.1" y2="220.98" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <pinref part="J2" gate="G$1" pin="A5"/>
+<pinref part="R2-USB1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="VUSB" class="1">
 <segment>
-<pinref part="J2" gate="G$1" pin="A4"/>
 <wire x1="38.1" y1="223.52" x2="27.94" y2="223.52" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="27.94" y1="223.52" x2="27.94" y2="236.22" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="PFMF.050.1" gate="G$1" pin="1"/>
 <wire x1="25.4" y1="236.22" x2="27.94" y2="236.22" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="27.94" y1="236.22" x2="30.48" y2="236.22" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="27.94" y="236.22" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="30.48" y="236.22" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="A4"/>
+<pinref part="PFMF.050.1" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="A9"/>
 <wire x1="38.1" y1="210.82" x2="35.56" y2="210.82" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="35.56" y="210.82" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="A9"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="B4"/>
 <wire x1="38.1" y1="203.2" x2="35.56" y2="203.2" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="35.56" y="203.2" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="B4"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="B9"/>
 <wire x1="63.5" y1="215.9" x2="66.04" y2="215.9" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="66.04" y="215.9" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="B9"/>
 </segment>
 </net>
 <net name="D_P" class="0">
 <segment>
-<pinref part="J2" gate="G$1" pin="A6"/>
 <wire x1="38.1" y1="218.44" x2="35.56" y2="218.44" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="35.56" y="218.44" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="A6"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="B6"/>
 <wire x1="63.5" y1="223.52" x2="73.66" y2="223.52" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="73.66" y="223.52" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="B6"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="I/O2_1"/>
 <wire x1="93.98" y1="231.14" x2="91.44" y2="231.14" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="91.44" y="231.14" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="D1" gate="G$1" pin="I/O2_1"/>
 </segment>
 </net>
 <net name="D_N" class="0">
 <segment>
-<pinref part="J2" gate="G$1" pin="A7"/>
 <wire x1="38.1" y1="215.9" x2="35.56" y2="215.9" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="35.56" y="215.9" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="A7"/>
 </segment>
 <segment>
-<pinref part="J2" gate="G$1" pin="B7"/>
 <wire x1="63.5" y1="220.98" x2="73.66" y2="220.98" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="73.66" y="220.98" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="J2" gate="G$1" pin="B7"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="I/O1_1"/>
 <wire x1="93.98" y1="236.22" x2="91.44" y2="236.22" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="91.44" y="236.22" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="D1" gate="G$1" pin="I/O1_1"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="R2-USB" gate="G$1" pin="1"/>
 <wire x1="66.04" y1="226.06" x2="63.5" y2="226.06" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <pinref part="J2" gate="G$1" pin="B5"/>
+<pinref part="R2-USB" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="VBUS" class="1">
 <segment>
-<pinref part="PFMF.050.1" gate="G$1" pin="2"/>
 <wire x1="15.24" y1="236.22" x2="12.7" y2="236.22" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="12.7" y="236.22" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="PFMF.050.1" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="D1" gate="G$1" pin="GND"/>
 <wire x1="93.98" y1="233.68" x2="91.44" y2="233.68" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="91.44" y="233.68" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="D1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C4_USB" gate="G$1" pin="1"/>
 <wire x1="111.76" y1="213.36" x2="111.76" y2="215.9" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="111.76" y1="215.9" x2="116.84" y2="215.9" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="116.84" y1="215.9" x2="121.92" y2="215.9" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="121.92" y1="215.9" x2="121.92" y2="213.36" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
-<pinref part="C5_USB" gate="G$1" pin="1"/>
 <wire x1="116.84" y1="215.9" x2="116.84" y2="218.44" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="116.84" y="218.44" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <junction x="116.84" y="215.9" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="C4_USB" gate="G$1" pin="1"/>
+<pinref part="C5_USB" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="R1_PWRUSB" gate="G$1" pin="2"/>
 <wire x1="149.86" y1="213.36" x2="149.86" y2="228.6" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="Q1" gate="G$1" pin="G"/>
 <wire x1="149.86" y1="228.6" x2="149.86" y2="238.76" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="165.1" y1="228.6" x2="154.94" y2="228.6" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="D2" gate="G$0" pin="ANODE"/>
 <wire x1="154.94" y1="228.6" x2="149.86" y2="228.6" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="154.94" y1="215.9" x2="154.94" y2="228.6" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="149.86" y="228.6" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="154.94" y="228.6" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <label x="149.86" y="238.76" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="R1_PWRUSB" gate="G$1" pin="2"/>
+<pinref part="Q1" gate="G$1" pin="G"/>
+<pinref part="D2" gate="G$0" pin="ANODE"/>
 </segment>
 <segment>
-<pinref part="MCP73831" gate="G$1" pin="VIN"/>
 <wire x1="172.72" y1="170.18" x2="160.02" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
-<pinref part="CHG_LED" gate="G$1" pin="A"/>
 <wire x1="160.02" y1="170.18" x2="149.86" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="149.86" y1="170.18" x2="137.16" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="160.02" y1="157.48" x2="160.02" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
-<pinref part="C1_BAT" gate="G$1" pin="1"/>
 <wire x1="149.86" y1="165.1" x2="149.86" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <label x="137.16" y="170.18" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <junction x="160.02" y="170.18"/>
 <junction x="149.86" y="170.18"/>
+<pinref part="C1_BAT" gate="G$1" pin="1"/>
+<pinref part="CHG_LED" gate="G$1" pin="A"/>
+<pinref part="MCP73831" gate="G$1" pin="VIN"/>
 </segment>
 <segment>
 <pinref part="TP14" gate="G$1" pin="TP"/>
@@ -3808,88 +3808,88 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="USB_D+_N" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="I/O1_2"/>
 <wire x1="127" y1="236.22" x2="127" y2="238.76" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="127" y1="238.76" x2="129.54" y2="238.76" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="129.54" y="238.76" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="D1" gate="G$1" pin="I/O1_2"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO12"/>
 <wire x1="363.22" y1="167.64" x2="365.76" y2="167.64" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="167.64" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO12"/>
 </segment>
 </net>
 <net name="USB_D+_P" class="0">
 <segment>
-<pinref part="D1" gate="G$1" pin="I/O2_2"/>
 <wire x1="127" y1="231.14" x2="127" y2="228.6" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <wire x1="127" y1="228.6" x2="129.54" y2="228.6" width="0.1524" layer="91" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
 <label x="129.54" y="228.6" size="1.27" layer="95" xref="yes" grouprefs="USB_C_CONNECTOR_AND_ESD_PROTECTION"/>
+<pinref part="D1" gate="G$1" pin="I/O2_2"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO13"/>
 <wire x1="363.22" y1="165.1" x2="365.76" y2="165.1" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="165.1" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO13"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="IC4" gate="G$1" pin="VIN"/>
 <wire x1="200.66" y1="215.9" x2="195.58" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="D2" gate="G$0" pin="CATHODE"/>
-<pinref part="IC4" gate="G$1" pin="CE"/>
 <wire x1="195.58" y1="215.9" x2="180.34" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="180.34" y1="215.9" x2="172.72" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="172.72" y1="215.9" x2="170.18" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="200.66" y1="210.82" x2="195.58" y2="210.82" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="195.58" y1="210.82" x2="195.58" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="195.58" y="215.9" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="C1_BAT1" gate="G$1" pin="1"/>
 <wire x1="180.34" y1="210.82" x2="180.34" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="180.34" y="215.9" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="Q1" gate="G$1" pin="S"/>
 <wire x1="172.72" y1="226.06" x2="172.72" y2="215.9" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="172.72" y="215.9" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="C1_BAT1" gate="G$1" pin="1"/>
+<pinref part="Q1" gate="G$1" pin="S"/>
+<pinref part="D2" gate="G$0" pin="CATHODE"/>
+<pinref part="IC4" gate="G$1" pin="VIN"/>
+<pinref part="IC4" gate="G$1" pin="CE"/>
 </segment>
 </net>
 <net name="3V3" class="1">
 <segment>
-<pinref part="IC4" gate="G$1" pin="VOUT"/>
 <wire x1="228.6" y1="213.36" x2="236.22" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <pinref part="SUPPLY8" gate="G$1" pin="3V3"/>
-<pinref part="C1_BAT2" gate="G$1" pin="1"/>
 <wire x1="236.22" y1="213.36" x2="241.3" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="241.3" y1="213.36" x2="251.46" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <wire x1="236.22" y1="210.82" x2="236.22" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
-<pinref part="C3" gate="G$1" pin="+"/>
 <wire x1="241.3" y1="210.82" x2="241.3" y2="213.36" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="236.22" y="213.36" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <junction x="241.3" y="213.36" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="C1_BAT2" gate="G$1" pin="1"/>
+<pinref part="C3" gate="G$1" pin="+"/>
+<pinref part="IC4" gate="G$1" pin="VOUT"/>
 </segment>
 <segment>
 <pinref part="SUPPLY13" gate="G$1" pin="3V3"/>
 <wire x1="320.04" y1="236.22" x2="320.04" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
-<pinref part="J4" gate="G$1" pin="VDD"/>
 <wire x1="314.96" y1="228.6" x2="320.04" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
-<pinref part="C9" gate="G$1" pin="1"/>
 <wire x1="320.04" y1="228.6" x2="322.58" y2="228.6" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <junction x="320.04" y="228.6" grouprefs="SD_CARD"/>
+<pinref part="C9" gate="G$1" pin="1"/>
+<pinref part="J4" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="3V3"/>
 <wire x1="363.22" y1="177.8" x2="365.76" y2="177.8" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <wire x1="365.76" y1="177.8" x2="365.76" y2="180.34" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <pinref part="SUPPLY24" gate="G$1" pin="3V3"/>
+<pinref part="U2" gate="G$1" pin="3V3"/>
 </segment>
 <segment>
-<pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="299.72" y1="157.48" x2="299.72" y2="160.02" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <pinref part="SUPPLY25" gate="G$1" pin="3V3"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="R_CL1" gate="G$1" pin="2"/>
 <wire x1="358.14" y1="233.68" x2="358.14" y2="236.22" width="0.1524" layer="91" grouprefs="EPD_POWER"/>
 <pinref part="SUPPLY31" gate="G$1" pin="3V3"/>
+<pinref part="R_CL1" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY32" gate="G$1" pin="3V3"/>
@@ -3897,13 +3897,13 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="Q2" gate="G$1" pin="D"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="VDD"/>
 <pinref part="SUPPLY41" gate="G$1" pin="3V3"/>
+<pinref part="IC1" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <pinref part="SUPPLY42" gate="G$1" pin="3V3"/>
-<pinref part="R_RESET" gate="G$1" pin="2"/>
 <wire x1="154.94" y1="119.38" x2="154.94" y2="116.84" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
+<pinref part="R_RESET" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="SUPPLY43" gate="G$1" pin="3V3"/>
@@ -3916,10 +3916,10 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="R_CHANGE" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="VCC"/>
 <wire x1="50.8" y1="38.1" x2="53.34" y2="38.1" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="53.34" y1="38.1" x2="53.34" y2="40.64" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <pinref part="SUPPLY50" gate="G$1" pin="3V3"/>
+<pinref part="U3" gate="A" pin="VCC"/>
 </segment>
 <segment>
 <pinref part="SUPPLY51" gate="G$1" pin="3V3"/>
@@ -3931,10 +3931,10 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <pinref part="SUPPLY53" gate="G$1" pin="3V3"/>
 <wire x1="116.84" y1="40.64" x2="111.76" y2="40.64" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="111.76" y1="40.64" x2="111.76" y2="35.56" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
-<pinref part="R2-PINH1" gate="G$1" pin="2"/>
 <wire x1="116.84" y1="40.64" x2="121.92" y2="40.64" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <junction x="116.84" y="40.64" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="121.92" y1="40.64" x2="121.92" y2="35.56" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="R2-PINH1" gate="G$1" pin="2"/>
 <pinref part="R1-PINH1" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -3943,76 +3943,76 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="162.56" y="58.42" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="J3" gate="J1" pin="2"/>
 <wire x1="276.86" y1="55.88" x2="261.62" y2="55.88" width="0.1524" layer="91" grouprefs="QWIIC/STEMMA_QT"/>
 <wire x1="261.62" y1="55.88" x2="261.62" y2="58.42" width="0.1524" layer="91" grouprefs="QWIIC/STEMMA_QT"/>
 <pinref part="SUPPLY55" gate="G$1" pin="3V3"/>
+<pinref part="J3" gate="J1" pin="2"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="2"/>
 <wire x1="187.96" y1="60.96" x2="187.96" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="187.96" y1="63.5" x2="198.12" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <pinref part="SUPPLY56" gate="G$1" pin="3V3"/>
-<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="198.12" y1="63.5" x2="208.28" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="208.28" y1="63.5" x2="218.44" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="218.44" y1="63.5" x2="228.6" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="228.6" y1="63.5" x2="238.76" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="238.76" y1="63.5" x2="241.3" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="198.12" y1="60.96" x2="198.12" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="60.96" x2="208.28" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="218.44" y1="60.96" x2="218.44" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="60.96" x2="228.6" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="238.76" y1="60.96" x2="238.76" y2="63.5" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="198.12" y="63.5" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="208.28" y="63.5" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="218.44" y="63.5" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="228.6" y="63.5" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="238.76" y="63.5" grouprefs="SPI_ESD_PROTECTION_LINES"/>
+<pinref part="R8" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
+<pinref part="R9" gate="G$1" pin="2"/>
+<pinref part="R10" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="VCC"/>
 <wire x1="358.14" y1="60.96" x2="373.38" y2="60.96" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <pinref part="SUPPLY58" gate="G$1" pin="3V3"/>
-<pinref part="U1" gate="G$1" pin="!WP!(IO2)"/>
 <wire x1="358.14" y1="50.8" x2="373.38" y2="50.8" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <wire x1="373.38" y1="50.8" x2="373.38" y2="60.96" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <junction x="373.38" y="60.96" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
+<pinref part="U1" gate="G$1" pin="!WP!(IO2)"/>
+<pinref part="U1" gate="G$1" pin="VCC"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="!HOLD!/!RESET!(IO3)"/>
 <wire x1="312.42" y1="48.26" x2="309.88" y2="48.26" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <pinref part="SUPPLY60" gate="G$1" pin="3V3"/>
+<pinref part="U1" gate="G$1" pin="!HOLD!/!RESET!(IO3)"/>
 </segment>
 </net>
 <net name="VBAT" class="1">
 <segment>
-<pinref part="Q1" gate="G$1" pin="D"/>
 <wire x1="172.72" y1="236.22" x2="172.72" y2="238.76" width="0.1524" layer="91" grouprefs="LDO_VOLTAGE_REGULATOR"/>
 <label x="172.72" y="238.76" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="LDO_VOLTAGE_REGULATOR"/>
+<pinref part="Q1" gate="G$1" pin="D"/>
 </segment>
 <segment>
-<pinref part="MCP73831" gate="G$1" pin="VBAT"/>
 <wire x1="193.04" y1="170.18" x2="210.82" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="210.82" y1="170.18" x2="226.06" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
-<pinref part="C2_BAT" gate="G$1" pin="1"/>
 <wire x1="210.82" y1="162.56" x2="210.82" y2="170.18" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <label x="226.06" y="170.18" size="1.27" layer="95" xref="yes" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <junction x="210.82" y="170.18"/>
+<pinref part="C2_BAT" gate="G$1" pin="1"/>
+<pinref part="MCP73831" gate="G$1" pin="VBAT"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="CELL"/>
 <wire x1="261.62" y1="111.76" x2="266.7" y2="111.76" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
-<pinref part="U4" gate="G$1" pin="VDD"/>
 <wire x1="266.7" y1="111.76" x2="269.24" y2="111.76" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <wire x1="261.62" y1="109.22" x2="266.7" y2="109.22" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <wire x1="266.7" y1="109.22" x2="266.7" y2="111.76" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <junction x="266.7" y="111.76" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <label x="269.24" y="111.76" size="1.27" layer="95" xref="yes" grouprefs="BATTERY_CHARGE_LEVEL"/>
+<pinref part="U4" gate="G$1" pin="CELL"/>
+<pinref part="U4" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <pinref part="TP3" gate="G$1" pin="TP"/>
@@ -4022,40 +4022,40 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="SS_SD" class="0">
 <segment>
-<pinref part="J4" gate="G$1" pin="CD/DAT3"/>
 <wire x1="274.32" y1="215.9" x2="271.78" y2="215.9" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <label x="271.78" y="215.9" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="SD_CARD"/>
+<pinref part="J4" gate="G$1" pin="CD/DAT3"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO4"/>
 <wire x1="322.58" y1="157.48" x2="320.04" y2="157.48" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="157.48" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO4"/>
 </segment>
 <segment>
-<pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="238.76" y1="50.8" x2="238.76" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D8" gate="G$1" pin="2"/>
 <wire x1="238.76" y1="35.56" x2="238.76" y2="22.86" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="238.76" y1="35.56" x2="241.3" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="241.3" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="238.76" y="35.56"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<pinref part="D8" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
-<pinref part="J4" gate="G$1" pin="CMD"/>
 <wire x1="274.32" y1="213.36" x2="271.78" y2="213.36" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <label x="271.78" y="213.36" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="SD_CARD"/>
+<pinref part="J4" gate="G$1" pin="CMD"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO7"/>
 <wire x1="322.58" y1="149.86" x2="320.04" y2="149.86" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="149.86" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO7"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="14"/>
 <wire x1="66.04" y1="96.52" x2="63.5" y2="96.52" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="96.52" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="14"/>
 </segment>
 <segment>
 <pinref part="TP7" gate="G$1" pin="TP"/>
@@ -4063,35 +4063,35 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="149.86" y="38.1" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="D11" gate="G$1" pin="2"/>
 <wire x1="198.12" y1="22.86" x2="198.12" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="198.12" y1="35.56" x2="198.12" y2="50.8" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="198.12" y1="35.56" x2="200.66" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="200.66" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="198.12" y="35.56"/>
+<pinref part="R7" gate="G$1" pin="1"/>
+<pinref part="D11" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="DI(IO0)"/>
 <wire x1="358.14" y1="53.34" x2="360.68" y2="53.34" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <label x="360.68" y="53.34" size="1.27" layer="95" xref="yes" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
+<pinref part="U1" gate="G$1" pin="DI(IO0)"/>
 </segment>
 </net>
 <net name="SCK" class="0">
 <segment>
-<pinref part="J4" gate="G$1" pin="CLK"/>
 <wire x1="314.96" y1="226.06" x2="317.5" y2="226.06" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <label x="317.5" y="226.06" size="1.27" layer="95" xref="yes" grouprefs="SD_CARD"/>
+<pinref part="J4" gate="G$1" pin="CLK"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO6"/>
 <wire x1="322.58" y1="152.4" x2="320.04" y2="152.4" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="152.4" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO6"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="13"/>
 <wire x1="66.04" y1="93.98" x2="63.5" y2="93.98" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="93.98" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="13"/>
 </segment>
 <segment>
 <pinref part="TP8" gate="G$1" pin="TP"/>
@@ -4099,30 +4099,30 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="154.94" y="38.1" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="208.28" y1="50.8" x2="208.28" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D10" gate="G$1" pin="2"/>
 <wire x1="208.28" y1="35.56" x2="208.28" y2="22.86" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="208.28" y1="35.56" x2="210.82" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="210.82" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="208.28" y="35.56"/>
+<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="D10" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="CLK"/>
 <wire x1="312.42" y1="53.34" x2="309.88" y2="53.34" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <label x="309.88" y="53.34" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
+<pinref part="U1" gate="G$1" pin="CLK"/>
 </segment>
 </net>
 <net name="MISO" class="0">
 <segment>
-<pinref part="J4" gate="G$1" pin="DAT0"/>
 <wire x1="314.96" y1="220.98" x2="317.5" y2="220.98" width="0.1524" layer="91" grouprefs="SD_CARD"/>
 <label x="317.5" y="220.98" size="1.27" layer="95" xref="yes" grouprefs="SD_CARD"/>
+<pinref part="J4" gate="G$1" pin="DAT0"/>
 </segment>
 <segment>
-<pinref part="U2" gate="G$1" pin="IO2"/>
 <wire x1="322.58" y1="162.56" x2="320.04" y2="162.56" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="162.56" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO2"/>
 </segment>
 <segment>
 <pinref part="TP6" gate="G$1" pin="TP"/>
@@ -4130,18 +4130,18 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="144.78" y="38.1" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="D12" gate="G$1" pin="2"/>
 <wire x1="187.96" y1="22.86" x2="187.96" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="187.96" y1="35.56" x2="187.96" y2="50.8" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="187.96" y1="35.56" x2="190.5" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="190.5" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="187.96" y="35.56"/>
+<pinref part="R8" gate="G$1" pin="1"/>
+<pinref part="D12" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="DO(IO1)"/>
 <wire x1="358.14" y1="55.88" x2="360.68" y2="55.88" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <label x="360.68" y="55.88" size="1.27" layer="95" xref="yes" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
+<pinref part="U1" gate="G$1" pin="DO(IO1)"/>
 </segment>
 </net>
 <net name="RESE'" class="0">
@@ -4151,44 +4151,44 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="279.4" y="170.18" size="1.27" layer="95" xref="yes" grouprefs="DISPLAY_TYPE_SELECTOR"/>
 </segment>
 <segment>
-<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="269.24" y1="147.32" x2="279.4" y2="147.32" width="0.1524" layer="91" grouprefs="DISPLAY_TYPE_SELECTOR"/>
 <label x="279.4" y="147.32" size="1.27" layer="95" xref="yes" grouprefs="DISPLAY_TYPE_SELECTOR"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="149.86" x2="93.98" y2="147.32" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="91.44" y1="147.32" x2="93.98" y2="147.32" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="96.52" y="147.32" size="1.27" layer="95" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="R3" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EPD_3V3" class="1">
 <segment>
-<pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="10.16" y1="167.64" x2="10.16" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="L1" gate="A" pin="2"/>
 <wire x1="10.16" y1="170.18" x2="10.16" y2="172.72" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="12.7" y1="170.18" x2="10.16" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="10.16" y="172.72" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="10.16" y="170.18" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="C7" gate="G$1" pin="1"/>
+<pinref part="L1" gate="A" pin="2"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="16"/>
 <wire x1="66.04" y1="101.6" x2="63.5" y2="101.6" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="60.96" y="101.6" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="63.5" y1="101.6" x2="60.96" y2="101.6" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="63.5" y="101.6" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="63.5" y1="101.6" x2="63.5" y2="99.06" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="J1" gate="G$1" pin="15"/>
 <wire x1="66.04" y1="99.06" x2="63.5" y2="99.06" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="EPD_C5" gate="G$1" pin="2"/>
 <wire x1="63.5" y1="99.06" x2="35.56" y2="99.06" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="63.5" y="99.06" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C5" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="15"/>
+<pinref part="J1" gate="G$1" pin="16"/>
 </segment>
 <segment>
-<pinref part="Q2" gate="G$1" pin="S"/>
 <wire x1="368.3" y1="218.44" x2="368.3" y2="215.9" width="0.1524" layer="91" grouprefs="EPD_POWER"/>
 <label x="368.3" y="215.9" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="EPD_POWER"/>
+<pinref part="Q2" gate="G$1" pin="S"/>
 </segment>
 <segment>
 <pinref part="TP17" gate="G$1" pin="TP"/>
@@ -4198,136 +4198,136 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="SRC" class="0">
 <segment>
-<pinref part="D5" gate="G$1" pin="A"/>
 <wire x1="40.64" y1="154.94" x2="38.1" y2="154.94" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="38.1" y1="154.94" x2="33.02" y2="154.94" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="33.02" y1="154.94" x2="33.02" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="L1" gate="A" pin="1"/>
 <wire x1="33.02" y1="170.18" x2="33.02" y2="177.8" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="27.94" y1="170.18" x2="33.02" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="C4" gate="G$1" pin="2"/>
 <wire x1="38.1" y1="157.48" x2="38.1" y2="154.94" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="33.02" y="177.8" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="38.1" y="154.94" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="33.02" y="170.18" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="C4" gate="G$1" pin="2"/>
+<pinref part="L1" gate="A" pin="1"/>
+<pinref part="D5" gate="G$1" pin="A"/>
 </segment>
 <segment>
-<pinref part="Q3" gate="G$1" pin="D"/>
 <wire x1="93.98" y1="180.34" x2="93.98" y2="182.88" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="93.98" y="182.88" size="1.27" layer="95" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="Q3" gate="G$1" pin="D"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
-<pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="38.1" y1="165.1" x2="38.1" y2="167.64" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="38.1" y1="167.64" x2="38.1" y2="175.26" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="38.1" y1="175.26" x2="40.64" y2="175.26" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="D3" gate="G$1" pin="A"/>
-<pinref part="D4" gate="G$1" pin="K"/>
 <wire x1="40.64" y1="167.64" x2="38.1" y2="167.64" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="38.1" y="167.64" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<pinref part="D3" gate="G$1" pin="A"/>
+<pinref part="D4" gate="G$1" pin="K"/>
 </segment>
 </net>
 <net name="PREVGL" class="0">
 <segment>
-<pinref part="D4" gate="G$1" pin="A"/>
 <wire x1="55.88" y1="167.64" x2="58.42" y2="167.64" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="58.42" y="167.64" size="1.27" layer="95" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="D4" gate="G$1" pin="A"/>
 </segment>
 <segment>
-<pinref part="EPD_C11" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="119.38" x2="60.96" y2="119.38" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="J1" gate="G$1" pin="23"/>
 <wire x1="60.96" y1="119.38" x2="66.04" y2="119.38" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="60.96" y1="119.38" x2="60.96" y2="124.46" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="60.96" y="119.38" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="60.96" y="124.46" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C11" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="23"/>
 </segment>
 </net>
 <net name="PREVGH" class="0">
 <segment>
-<pinref part="D5" gate="G$1" pin="K"/>
 <wire x1="55.88" y1="154.94" x2="58.42" y2="154.94" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="58.42" y="154.94" size="1.27" layer="95" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="D5" gate="G$1" pin="K"/>
 </segment>
 <segment>
-<pinref part="EPD_C9" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="114.3" x2="40.64" y2="114.3" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
-<pinref part="J1" gate="G$1" pin="21"/>
 <wire x1="40.64" y1="114.3" x2="66.04" y2="114.3" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <wire x1="40.64" y1="114.3" x2="40.64" y2="124.46" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <junction x="40.64" y="114.3" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="40.64" y="124.46" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C9" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="21"/>
 </segment>
 </net>
 <net name="GDR" class="0">
 <segment>
-<pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="167.64" x2="81.28" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="Q3" gate="G$1" pin="G"/>
 <wire x1="81.28" y1="170.18" x2="81.28" y2="177.8" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="86.36" y1="170.18" x2="81.28" y2="170.18" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="81.28" y="177.8" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="81.28" y="170.18"/>
+<pinref part="R4" gate="G$1" pin="2"/>
+<pinref part="Q3" gate="G$1" pin="G"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="2"/>
 <wire x1="66.04" y1="66.04" x2="63.5" y2="66.04" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="66.04" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="RESE" class="0">
 <segment>
-<pinref part="Q3" gate="G$1" pin="S"/>
 <wire x1="93.98" y1="165.1" x2="93.98" y2="162.56" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
-<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="93.98" y1="162.56" x2="93.98" y2="160.02" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <wire x1="93.98" y1="162.56" x2="96.52" y2="162.56" width="0.1524" layer="91" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <label x="96.52" y="162.56" size="1.27" layer="95" xref="yes" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
 <junction x="93.98" y="162.56" grouprefs="E-PAPER_DRIVE_CIRCUIT"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="Q3" gate="G$1" pin="S"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="3"/>
 <wire x1="66.04" y1="68.58" x2="63.5" y2="68.58" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="68.58" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="3"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="MCP73831" gate="G$1" pin="STAT"/>
 <wire x1="172.72" y1="165.1" x2="170.18" y2="165.1" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="170.18" y1="165.1" x2="170.18" y2="162.56" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="R1_BAT" gate="G$1" pin="2"/>
+<pinref part="MCP73831" gate="G$1" pin="STAT"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="R1_BAT" gate="G$1" pin="1"/>
 <wire x1="170.18" y1="152.4" x2="170.18" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="170.18" y1="147.32" x2="160.02" y2="147.32" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="160.02" y1="147.32" x2="160.02" y2="149.86" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
+<pinref part="R1_BAT" gate="G$1" pin="1"/>
 <pinref part="CHG_LED" gate="G$1" pin="C"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
-<pinref part="MCP73831" gate="G$1" pin="PROG"/>
 <wire x1="193.04" y1="167.64" x2="203.2" y2="167.64" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <wire x1="203.2" y1="167.64" x2="203.2" y2="160.02" width="0.1524" layer="91" grouprefs="LI-PO_BATTERY_CHARGING_CONTROLLER"/>
 <pinref part="R2_BAT" gate="G$1" pin="2"/>
+<pinref part="MCP73831" gate="G$1" pin="PROG"/>
 </segment>
 </net>
 <net name="EPD_CS" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO10"/>
 <wire x1="363.22" y1="172.72" x2="365.76" y2="172.72" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="172.72" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO10"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="12"/>
 <wire x1="66.04" y1="91.44" x2="63.5" y2="91.44" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="91.44" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="12"/>
 </segment>
 <segment>
 <pinref part="TP10" gate="G$1" pin="TP"/>
@@ -4335,62 +4335,62 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="170.18" y="38.1" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="TEST_PADS"/>
 </segment>
 <segment>
-<pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="50.8" x2="228.6" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D6" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="35.56" x2="228.6" y2="22.86" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="228.6" y1="35.56" x2="231.14" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="231.14" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="228.6" y="35.56"/>
+<pinref part="R9" gate="G$1" pin="1"/>
+<pinref part="D6" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="FLASH_CS" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO11"/>
 <wire x1="363.22" y1="170.18" x2="365.76" y2="170.18" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="170.18" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO11"/>
 </segment>
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="218.44" y1="50.8" x2="218.44" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
-<pinref part="D9" gate="G$1" pin="2"/>
 <wire x1="218.44" y1="35.56" x2="218.44" y2="22.86" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <wire x1="218.44" y1="35.56" x2="220.98" y2="35.56" width="0.1524" layer="91" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <label x="220.98" y="35.56" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="SPI_ESD_PROTECTION_LINES"/>
 <junction x="218.44" y="35.56"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="D9" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="!CS"/>
 <wire x1="312.42" y1="55.88" x2="309.88" y2="55.88" width="0.1524" layer="91" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
 <label x="309.88" y="55.88" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="EXTERNAL_NOR_FLASH_64MB"/>
+<pinref part="U1" gate="G$1" pin="!CS"/>
 </segment>
 </net>
 <net name="IO/CHANGE" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO15"/>
 <wire x1="363.22" y1="162.56" x2="365.76" y2="162.56" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="162.56" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO15"/>
 </segment>
 <segment>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
 <wire x1="200.66" y1="101.6" x2="200.66" y2="104.14" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="R_CHANGE" gate="G$1" pin="1"/>
-<pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
 <wire x1="200.66" y1="104.14" x2="200.66" y2="106.68" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="198.12" y1="101.6" x2="200.66" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="200.66" y="101.6" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="200.66" y="104.14" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="200.66" y1="101.6" x2="203.962" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="203.962" y1="101.6" x2="203.962" y2="100.584" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="C10" gate="G$1" pin="1"/>
 <label x="205.74" y="104.14" size="1.778" layer="95" rot="R90" xref="yes" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
+<pinref part="R_CHANGE" gate="G$1" pin="1"/>
+<pinref part="C10" gate="G$1" pin="1"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="3"/>
+<pinref part="CHANGE_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="TX" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="TXD0/GPIO16"/>
 <wire x1="363.22" y1="160.02" x2="365.76" y2="160.02" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="160.02" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="TXD0/GPIO16"/>
 </segment>
 <segment>
 <pinref part="TP1" gate="G$1" pin="TP"/>
@@ -4400,9 +4400,9 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="RX" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="RXD0/GPIO17"/>
 <wire x1="363.22" y1="157.48" x2="365.76" y2="157.48" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="157.48" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="RXD0/GPIO17"/>
 </segment>
 <segment>
 <pinref part="TP2" gate="G$1" pin="TP"/>
@@ -4412,75 +4412,75 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="RTC_RST" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO18"/>
 <wire x1="363.22" y1="154.94" x2="365.76" y2="154.94" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="154.94" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO18"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="!RST"/>
 <wire x1="20.32" y1="38.1" x2="17.78" y2="38.1" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="17.78" y="38.1" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="!RST"/>
 </segment>
 </net>
 <net name="I2C_PW" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO19"/>
 <wire x1="363.22" y1="152.4" x2="365.76" y2="152.4" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="152.4" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO19"/>
 </segment>
 <segment>
 <wire x1="322.58" y1="106.68" x2="325.12" y2="106.68" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="SENSOR2" gate="G$1" pin="VDD"/>
 <wire x1="325.12" y1="106.68" x2="325.12" y2="109.22" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="SENSOR2" gate="G$1" pin="CSB"/>
 <wire x1="292.1" y1="101.6" x2="289.56" y2="101.6" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="289.56" y1="101.6" x2="289.56" y2="116.84" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="289.56" y1="116.84" x2="325.12" y2="116.84" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="325.12" y1="116.84" x2="325.12" y2="109.22" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="SENSOR2" gate="G$1" pin="VDDIO"/>
 <wire x1="322.58" y1="109.22" x2="325.12" y2="109.22" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="325.12" y1="109.22" x2="330.2" y2="109.22" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="330.2" y1="111.76" x2="330.2" y2="109.22" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <junction x="325.12" y="109.22" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="330.2" y="111.76" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="SENSOR2" gate="G$1" pin="CSB"/>
+<pinref part="SENSOR2" gate="G$1" pin="VDD"/>
+<pinref part="SENSOR2" gate="G$1" pin="VDDIO"/>
 </segment>
 <segment>
-<pinref part="R2-PINH" gate="G$1" pin="2"/>
 <wire x1="337.82" y1="101.6" x2="337.82" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="337.82" y1="104.14" x2="342.9" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="342.9" y1="104.14" x2="347.98" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="347.98" y1="104.14" x2="347.98" y2="101.6" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="R1_PINH" gate="G$1" pin="2"/>
 <wire x1="342.9" y1="104.14" x2="342.9" y2="106.68" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <junction x="342.9" y="104.14" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="342.9" y="106.68" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="R2-PINH" gate="G$1" pin="2"/>
+<pinref part="R1_PINH" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="358.14" y1="101.6" x2="358.14" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="358.14" y1="104.14" x2="363.22" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="363.22" y1="104.14" x2="368.3" y2="104.14" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="368.3" y1="104.14" x2="368.3" y2="101.6" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
-<pinref part="C1" gate="G$1" pin="1"/>
 <junction x="363.22" y="104.14" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <wire x1="363.22" y1="104.14" x2="363.22" y2="106.68" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="363.22" y="106.68" size="1.27" layer="95" rot="R90" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<pinref part="C1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EPD_3V3_C" class="1">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO20"/>
 <wire x1="363.22" y1="149.86" x2="365.76" y2="149.86" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="149.86" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO20"/>
 </segment>
 <segment>
-<pinref part="Q2" gate="G$1" pin="G"/>
 <wire x1="360.68" y1="220.98" x2="358.14" y2="220.98" width="0.1524" layer="91" grouprefs="EPD_POWER"/>
-<pinref part="R_CL1" gate="G$1" pin="1"/>
 <wire x1="358.14" y1="220.98" x2="355.6" y2="220.98" width="0.1524" layer="91" grouprefs="EPD_POWER"/>
 <wire x1="358.14" y1="223.52" x2="358.14" y2="220.98" width="0.1524" layer="91" grouprefs="EPD_POWER"/>
 <junction x="358.14" y="220.98" grouprefs="EPD_POWER"/>
 <label x="355.6" y="220.98" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="EPD_POWER"/>
+<pinref part="R_CL1" gate="G$1" pin="1"/>
+<pinref part="Q2" gate="G$1" pin="G"/>
 </segment>
 <segment>
 <pinref part="TP13" gate="G$1" pin="TP"/>
@@ -4490,78 +4490,78 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="SDA" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO21"/>
 <wire x1="363.22" y1="147.32" x2="365.76" y2="147.32" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="147.32" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO21"/>
 </segment>
 <segment>
-<pinref part="SENSOR2" gate="G$1" pin="SDI"/>
 <wire x1="292.1" y1="96.52" x2="289.56" y2="96.52" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="289.56" y="96.52" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="SENSOR2" gate="G$1" pin="SDI"/>
 </segment>
 <segment>
-<pinref part="R1_PINH" gate="G$1" pin="1"/>
 <wire x1="347.98" y1="91.44" x2="347.98" y2="88.9" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="347.98" y="88.9" size="1.27" layer="95" rot="R270" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="R1_PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="SDA"/>
 <wire x1="226.06" y1="93.98" x2="223.52" y2="93.98" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <label x="223.52" y="93.98" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="BATTERY_CHARGE_LEVEL"/>
+<pinref part="U4" gate="G$1" pin="SDA"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="SDA"/>
 <wire x1="20.32" y1="27.94" x2="17.78" y2="27.94" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="17.78" y="27.94" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="SDA"/>
 </segment>
 <segment>
-<pinref part="J3" gate="J1" pin="3"/>
 <wire x1="276.86" y1="53.34" x2="274.32" y2="53.34" width="0.1524" layer="91" grouprefs="QWIIC/STEMMA_QT"/>
 <label x="274.32" y="53.34" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="QWIIC/STEMMA_QT"/>
+<pinref part="J3" gate="J1" pin="3"/>
 </segment>
 </net>
 <net name="SCL" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO22"/>
 <wire x1="363.22" y1="144.78" x2="365.76" y2="144.78" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="144.78" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO22"/>
 </segment>
 <segment>
-<pinref part="SENSOR2" gate="G$1" pin="SCK"/>
 <wire x1="292.1" y1="99.06" x2="289.56" y2="99.06" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="289.56" y="99.06" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="SENSOR2" gate="G$1" pin="SCK"/>
 </segment>
 <segment>
-<pinref part="R2-PINH" gate="G$1" pin="1"/>
 <wire x1="337.82" y1="91.44" x2="337.82" y2="88.9" width="0.1524" layer="91" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
 <label x="337.82" y="88.9" size="1.27" layer="95" rot="R270" xref="yes" grouprefs="ENVIRONMENTAL_SENSOR_BME688"/>
+<pinref part="R2-PINH" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="SCL"/>
 <wire x1="226.06" y1="99.06" x2="223.52" y2="99.06" width="0.1524" layer="91" grouprefs="BATTERY_CHARGE_LEVEL"/>
 <label x="223.52" y="99.06" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="BATTERY_CHARGE_LEVEL"/>
+<pinref part="U4" gate="G$1" pin="SCL"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="SCL"/>
 <wire x1="20.32" y1="30.48" x2="17.78" y2="30.48" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="17.78" y="30.48" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="SCL"/>
 </segment>
 <segment>
-<pinref part="J3" gate="J1" pin="4"/>
 <wire x1="276.86" y1="50.8" x2="274.32" y2="50.8" width="0.1524" layer="91" grouprefs="QWIIC/STEMMA_QT"/>
 <label x="274.32" y="50.8" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="QWIIC/STEMMA_QT"/>
+<pinref part="J3" gate="J1" pin="4"/>
 </segment>
 </net>
 <net name="EPD_RST" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO23"/>
 <wire x1="363.22" y1="142.24" x2="365.76" y2="142.24" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="365.76" y="142.24" size="1.27" layer="95" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO23"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="10"/>
 <wire x1="66.04" y1="86.36" x2="63.5" y2="86.36" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="86.36" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="10"/>
 </segment>
 <segment>
 <pinref part="TP12" gate="G$1" pin="TP"/>
@@ -4571,43 +4571,43 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="RESET" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="EN"/>
 <wire x1="322.58" y1="172.72" x2="320.04" y2="172.72" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="172.72" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="EN"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="VOUT"/>
 <wire x1="139.7" y1="104.14" x2="154.94" y2="104.14" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="154.94" y1="104.14" x2="162.56" y2="104.14" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="154.94" y="104.14" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="154.94" y1="104.14" x2="154.94" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="4"/>
 <wire x1="154.94" y1="104.14" x2="154.94" y2="106.68" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="R_RESET" gate="G$1" pin="1"/>
 <wire x1="154.94" y1="101.6" x2="152.4" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="154.94" y="101.6" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="RESET_BUTTON" gate="G$1" pin="3"/>
 <wire x1="154.94" y1="101.6" x2="158.496" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="158.496" y1="101.6" x2="158.496" y2="100.33" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="C5" gate="G$1" pin="1"/>
 <label x="162.56" y="104.14" size="1.778" layer="95" rot="R90" xref="yes" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
+<pinref part="R_RESET" gate="G$1" pin="1"/>
+<pinref part="C5" gate="G$1" pin="1"/>
+<pinref part="IC1" gate="G$1" pin="VOUT"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="3"/>
+<pinref part="RESET_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="INT_RTC" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO0"/>
 <wire x1="322.58" y1="167.64" x2="320.04" y2="167.64" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="167.64" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO0"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="SQW/!INT"/>
 <wire x1="50.8" y1="27.94" x2="53.34" y2="27.94" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="53.34" y="27.94" size="1.27" layer="95" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="SQW/!INT"/>
 </segment>
 <segment>
-<pinref part="R1-PINH1" gate="G$1" pin="1"/>
 <wire x1="121.92" y1="25.4" x2="121.92" y2="20.32" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="121.92" y="20.32" size="1.27" layer="95" rot="R270" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="R1-PINH1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="TP15" gate="G$1" pin="TP"/>
@@ -4617,31 +4617,31 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="32KHZ" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO1"/>
 <wire x1="322.58" y1="165.1" x2="320.04" y2="165.1" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="165.1" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO1"/>
 </segment>
 <segment>
-<pinref part="U3" gate="A" pin="32KHZ"/>
 <wire x1="50.8" y1="30.48" x2="53.34" y2="30.48" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="53.34" y="30.48" size="1.27" layer="95" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="32KHZ"/>
 </segment>
 <segment>
-<pinref part="R2-PINH1" gate="G$1" pin="1"/>
 <wire x1="111.76" y1="25.4" x2="111.76" y2="20.32" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="111.76" y="20.32" size="1.27" layer="95" rot="R270" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="R2-PINH1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="EPD_BUSY" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO3"/>
 <wire x1="322.58" y1="160.02" x2="320.04" y2="160.02" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="160.02" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO3"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="9"/>
 <wire x1="66.04" y1="83.82" x2="63.5" y2="83.82" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="83.82" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="9"/>
 </segment>
 <segment>
 <pinref part="TP9" gate="G$1" pin="TP"/>
@@ -4651,14 +4651,14 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="EPD_DC" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO5"/>
 <wire x1="322.58" y1="154.94" x2="320.04" y2="154.94" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="154.94" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO5"/>
 </segment>
 <segment>
-<pinref part="J1" gate="G$1" pin="11"/>
 <wire x1="66.04" y1="88.9" x2="63.5" y2="88.9" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <label x="63.5" y="88.9" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="J1" gate="G$1" pin="11"/>
 </segment>
 <segment>
 <pinref part="TP11" gate="G$1" pin="TP"/>
@@ -4668,120 +4668,120 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 </net>
 <net name="IO/BOOT" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO9"/>
 <wire x1="322.58" y1="144.78" x2="320.04" y2="144.78" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="320.04" y="144.78" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="ESP32_C6"/>
+<pinref part="U2" gate="G$1" pin="IO9"/>
 </segment>
 <segment>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="3"/>
 <wire x1="175.26" y1="101.6" x2="177.8" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="BOOT_BUTTON" gate="G$1" pin="4"/>
 <wire x1="177.8" y1="101.6" x2="177.8" y2="104.14" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="177.8" y="101.6" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="R_BOOT" gate="G$1" pin="1"/>
 <wire x1="177.8" y1="104.14" x2="177.8" y2="106.68" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <junction x="177.8" y="104.14" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="177.8" y1="104.14" x2="182.88" y2="104.14" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="177.8" y1="101.6" x2="181.356" y2="101.6" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="181.356" y1="101.6" x2="181.356" y2="100.33" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
-<pinref part="C6" gate="G$1" pin="1"/>
 <label x="182.88" y="104.14" size="1.778" layer="95" rot="R90" xref="yes" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
+<pinref part="R_BOOT" gate="G$1" pin="1"/>
+<pinref part="C6" gate="G$1" pin="1"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="3"/>
+<pinref part="BOOT_BUTTON" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="GPIO8" class="0">
 <segment>
-<pinref part="U2" gate="G$1" pin="IO8"/>
 <wire x1="322.58" y1="147.32" x2="304.8" y2="147.32" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
-<pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="304.8" y1="147.32" x2="299.72" y2="147.32" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <wire x1="304.8" y1="147.32" x2="304.8" y2="144.78" width="0.1524" layer="91" grouprefs="ESP32_C6"/>
 <label x="304.8" y="144.78" size="1.27" layer="95" rot="R270" xref="yes" grouprefs="ESP32_C6"/>
 <junction x="304.8" y="147.32"/>
+<pinref part="U2" gate="G$1" pin="IO8"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="4"/>
 <wire x1="66.04" y1="71.12" x2="35.56" y2="71.12" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="EPD_C1" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="5"/>
 <wire x1="66.04" y1="73.66" x2="50.8" y2="73.66" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="EPD_C2" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="5"/>
 </segment>
 </net>
 <net name="N$20" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="18"/>
 <wire x1="66.04" y1="106.68" x2="50.8" y2="106.68" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="EPD_C6" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="18"/>
 </segment>
 </net>
 <net name="N$21" class="0">
 <segment>
-<pinref part="J1" gate="G$1" pin="19"/>
 <wire x1="66.04" y1="109.22" x2="35.56" y2="109.22" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
 <pinref part="EPD_C7" gate="G$1" pin="2"/>
+<pinref part="J1" gate="G$1" pin="19"/>
 </segment>
 </net>
 <net name="N$22" class="0">
 <segment>
-<pinref part="EPD_C8" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="111.76" x2="66.04" y2="111.76" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C8" gate="G$1" pin="2"/>
 <pinref part="J1" gate="G$1" pin="20"/>
 </segment>
 </net>
 <net name="N$24" class="0">
 <segment>
-<pinref part="EPD_C10" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="116.84" x2="66.04" y2="116.84" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C10" gate="G$1" pin="2"/>
 <pinref part="J1" gate="G$1" pin="22"/>
 </segment>
 </net>
 <net name="N$26" class="0">
 <segment>
-<pinref part="EPD_C12" gate="G$1" pin="2"/>
 <wire x1="50.8" y1="121.92" x2="66.04" y2="121.92" width="0.1524" layer="91" grouprefs="E-PAPER_DISPLAY_HEADER"/>
+<pinref part="EPD_C12" gate="G$1" pin="2"/>
 <pinref part="J1" gate="G$1" pin="24"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="CT"/>
 <wire x1="114.3" y1="106.68" x2="111.76" y2="106.68" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <wire x1="111.76" y1="106.68" x2="111.76" y2="96.52" width="0.1524" layer="91" grouprefs="VOLTAGE_SUPERVISOR+RESET_AND_BOOT/IO_BUTTON"/>
 <pinref part="C_DELAY" gate="G$1" pin="1"/>
+<pinref part="IC1" gate="G$1" pin="CT"/>
 </segment>
 </net>
 <net name="VRTC" class="1">
 <segment>
-<pinref part="U3" gate="A" pin="VBAT"/>
 <wire x1="50.8" y1="35.56" x2="53.34" y2="35.56" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="53.34" y="35.56" size="1.27" layer="95" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="U3" gate="A" pin="VBAT"/>
 </segment>
 <segment>
-<pinref part="R_CAPACITOR" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="38.1" x2="99.06" y2="38.1" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="99.06" y1="38.1" x2="99.06" y2="27.94" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
-<pinref part="C10_SUPERCAP" gate="G$1" pin="2"/>
 <wire x1="99.06" y1="27.94" x2="99.06" y2="25.4" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="99.06" y1="27.94" x2="91.44" y2="27.94" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="91.44" y1="27.94" x2="88.9" y2="27.94" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <wire x1="91.44" y1="27.94" x2="91.44" y2="25.4" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
-<pinref part="C8" gate="G$1" pin="1"/>
 <junction x="99.06" y="27.94" grouprefs="RTC_MODULE_DS3231SN"/>
 <junction x="91.44" y="27.94" grouprefs="RTC_MODULE_DS3231SN"/>
 <label x="88.9" y="27.94" size="1.27" layer="95" rot="R180" xref="yes" grouprefs="RTC_MODULE_DS3231SN"/>
+<pinref part="R_CAPACITOR" gate="G$1" pin="1"/>
+<pinref part="C8" gate="G$1" pin="1"/>
+<pinref part="C10_SUPERCAP" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="D7" gate="G$0" pin="CATHODE"/>
 <wire x1="81.28" y1="38.1" x2="83.82" y2="38.1" width="0.1524" layer="91" grouprefs="RTC_MODULE_DS3231SN"/>
 <pinref part="R_CAPACITOR" gate="G$1" pin="2"/>
+<pinref part="D7" gate="G$0" pin="CATHODE"/>
 </segment>
 </net>
 </nets>
@@ -4817,6 +4817,11 @@ with this version.
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets
 will not be understood (or retained) with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
 </note>
 <note version="9.5" severity="warning">
 Since Version 9.5, EAGLE supports persistent groups with
